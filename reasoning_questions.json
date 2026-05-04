@@ -460,19 +460,6 @@
       "difficulty": "Medium"
     },
     {
-      "question": "पाँच व्यक्ति A, B, C, D, E एक पंक्ति में बैठे हैं। A, B के दाएँ है। C, D के बाएँ है। E, A के दाएँ है। सबसे बाएँ कौन है?",
-      "options": [
-        "B",
-        "C",
-        "D",
-        "E"
-      ],
-      "correctIndex": 1,
-      "explanation": "A, B के दाएँ। C, D के बाएँ। E, A के दाएँ। क्रम: C, D, B, A, E। सबसे बाएँ C है।",
-      "subCategory": "रीजनिंग",
-      "difficulty": "Hard"
-    },
-    {
       "question": "यदि 'CLOCK' को 'IQPSU' लिखा जाता है, तो 'WATCH' को कैसे लिखा जाएगा?",
       "options": [
         "AFZTK",
@@ -770,19 +757,6 @@
       "explanation": "प्रोफेसर जो छात्र नहीं हैं, केवल त्रिभुज क्षेत्र में होंगे।",
       "subCategory": "रीजनिंग",
       "difficulty": "Medium"
-    },
-    {
-      "question": "पाँच व्यक्ति A, B, C, D, E एक पंक्ति में बैठे हैं। A, B के बाएँ है। C, D के दाएँ है। E, A के दाएँ है। सबसे बाएँ कौन है?",
-      "options": [
-        "A",
-        "B",
-        "C",
-        "D"
-      ],
-      "correctIndex": 0,
-      "explanation": "A, B के बाएँ। C, D के दाएँ। E, A के दाएँ। क्रम: A, E, B, D, C। सबसे बाएँ A है।",
-      "subCategory": "रीजनिंग",
-      "difficulty": "Hard"
     },
     {
       "question": "यदि 'RING' को 'XOTZ' लिखा जाता है, तो 'SING' को कैसे लिखा जाएगा?",
