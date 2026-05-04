@@ -1720,6 +1720,2398 @@
       "explanation": "HTML का पूरा नाम HyperText Markup Language है।",
       "subCategory": "वेब टेक्नोलॉजी",
       "difficulty": "Easy"
+    },
+    {
+      "question": "कंप्यूटर का मुख्य कार्य क्या है?**",
+      "options": [
+        "डेटा संग्रह",
+        "डेटा प्रोसेसिंग",
+        "डेटा स्टोरेज",
+        "उपरोक्त सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "D. उपरोक्त सभी** कंप्यूटर डेटा को input करता है, process करता है, और store भी करता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "CPU का पूरा नाम क्या है?**",
+      "options": [
+        "Central Process Unit",
+        "Central Processing Unit",
+        "Computer Processing Unit",
+        "Control Processing Unit"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Central Processing Unit** CPU कंप्यूटर का “brain” होता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "RAM किस प्रकार की मेमोरी है?**",
+      "options": [
+        "Permanent",
+        "Volatile",
+        "Secondary",
+        "Optical"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Volatile** RAM में data power जाने पर delete हो जाता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "हार्ड डिस्क किस प्रकार की मेमोरी है?**",
+      "options": [
+        "Primary",
+        "Volatile",
+        "Secondary",
+        "Cache"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Secondary** यह स्थायी (non-volatile) storage है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "निम्न में से Input Device कौन सा है?**",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Keyboard** Keyboard input देता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "ALU का कार्य क्या है?**",
+      "options": [
+        "Storage",
+        "Calculation",
+        "Printing",
+        "Networking"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Calculation** ALU arithmetic और logical operations करता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Binary Number System में कितने digits होते हैं?**",
+      "options": [
+        "2",
+        "8",
+        "10",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. 2** केवल 0 और 1।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Byte = ?**",
+      "options": [
+        "4 bits",
+        "8 bits",
+        "16 bits",
+        "32 bits"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. 8 bits**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Operating System का उदाहरण कौन सा है?**",
+      "options": [
+        "MS Word",
+        "Windows",
+        "Excel",
+        "PowerPoint"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Windows**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "MS Word किस प्रकार का सॉफ्टवेयर है?**",
+      "options": [
+        "System",
+        "Utility",
+        "Application",
+        "Firmware"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Application**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "इंटरनेट का जनक किसे कहा जाता है?**",
+      "options": [
+        "Bill Gates",
+        "Vint Cerf",
+        "Charles Babbage",
+        "Tim Berners-Lee"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Vint Cerf**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "WWW का आविष्कार किसने किया?**",
+      "options": [
+        "Vint Cerf",
+        "Tim Berners-Lee",
+        "Bill Gates",
+        "Steve Jobs"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Tim Berners-Lee**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "URL का पूरा नाम क्या है?**",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Resource Locator",
+        "Uniform Reference Link",
+        "Universal Reference Link"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Uniform Resource Locator**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "सबसे तेज मेमोरी कौन सी है?**",
+      "options": [
+        "RAM",
+        "ROM",
+        "Cache",
+        "Hard Disk"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Cache**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Firewall का उपयोग किस लिए होता है?**",
+      "options": [
+        "Speed बढ़ाने",
+        "Virus हटाने",
+        "Security",
+        "Printing"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Security** Current Affairs (Computer/IT 2025-26)",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "भारत का Digital Payment System कौन सा है?**",
+      "options": [
+        "PayPal",
+        "UPI",
+        "Visa",
+        "MasterCard"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. UPI** UPI भारत का fastest payment system है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "ChatGPT किस कंपनी द्वारा बनाया गया है?**",
+      "options": [
+        "Google",
+        "Microsoft",
+        "OpenAI",
+        "Meta"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. OpenAI**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "भारत का AI Mission किस वर्ष launch हुआ?**",
+      "options": [
+        "2020",
+        "2021",
+        "2023",
+        "2024"
+      ],
+      "correctIndex": 3,
+      "explanation": "D. 2024** IndiaAI Mission सरकार का बड़ा AI प्रोजेक्ट है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "G Technology का मुख्य लाभ क्या है?**",
+      "options": [
+        "Low speed",
+        "High latency",
+        "Fast internet",
+        "No connectivity"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Fast internet**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Cyber Crime किससे संबंधित है?**",
+      "options": [
+        "Banking",
+        "Internet misuse",
+        "Hardware damage",
+        "Printing"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Internet misuse** UKSSSC Pattern Advanced Questions",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Compiler क्या करता है?**",
+      "options": [
+        "Code run करता है",
+        "Code translate करता है",
+        "Code delete करता है",
+        "Code print करता है"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Code translate करता है**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "LAN का पूरा नाम क्या है?**",
+      "options": [
+        "Local Area Network",
+        "Large Area Network",
+        "Long Area Network",
+        "Light Area Network"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Local Area Network**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "HTML किसके लिए उपयोग होता है?**",
+      "options": [
+        "Programming",
+        "Web designing",
+        "Gaming",
+        "Networking"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Web designing**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Virus क्या है?**",
+      "options": [
+        "Hardware",
+        "Software",
+        "Malicious Program",
+        "Input device"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Malicious Program**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Excel में Formula शुरू होता है?**",
+      "options": [
+        "#",
+        "=",
+        "$",
+        "&"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. =**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Email का full form क्या है?**",
+      "options": [
+        "Electronic Mail",
+        "Electric Mail",
+        "Easy Mail",
+        "Extra Mail"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Electronic Mail**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "कौन सा Storage Device Portable है?**",
+      "options": [
+        "Hard Disk",
+        "Pen Drive",
+        "CPU",
+        "Monitor"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Pen Drive**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Cloud Computing का मतलब क्या है?**",
+      "options": [
+        "Local storage",
+        "Internet storage",
+        "Hardware",
+        "CPU"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Internet storage**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Phishing क्या है?**",
+      "options": [
+        "Fishing game",
+        "Cyber attack",
+        "Hardware",
+        "Software"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Cyber attack**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "सबसे नया ट्रेंड कौन सा है?**",
+      "options": [
+        "AI",
+        "Typewriter",
+        "Floppy Disk",
+        "Pager"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. AI** Final बात ये सेट: NCERT based UKSSSC level Current affairs included Zero गलत info अगर चाहो तो मैं अगला set बना सकता हूँ: 100 MCQs (PYQ style) Mock Test (timer वाला) सिर्फ Current Affairs Computer या सिर्फ Programming/Networking deep level बस बोलो 👍 ठीक है — अब **सही format** में दे रहा हूँ: **UKSSSC paper-setter style**, options थोड़े tricky, और हर answer के साथ **छोटी लेकिन ठोस explanation**। नीचे पहले एक **high-quality set of 24 MCQs** है। मैं इसको इस तरह बना रहा हूँ कि paper में पूछे जाने लायक लगे, रट्टा-टाइप नहीं। Computer MCQ Set (NCERT 6–12 + UKSSSC + Current Affairs)",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "कंप्यूटर के मुख्य कार्यों में कौन-सा शामिल है?",
+      "options": [
+        "Input",
+        "Processing",
+        "Output",
+        "उपरोक्त सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "D. उपरोक्त सभी** कंप्यूटर input लेता है, data को process करता है, output देता है और information को future use के लिए store भी करता है। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "CPU को कंप्यूटर का brain क्यों कहा जाता है?",
+      "options": [
+        "यह data print करता है",
+        "यह instructions को control और process करता है",
+        "यह केवल storage करता है",
+        "यह monitor से जुड़ा होता है"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. यह instructions को control और process करता है** CPU computer का brain कहलाता है क्योंकि वही instructions को execute करता है और पूरे computer की working को control करता है। ([NIOS Digital][2])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Control Unit (CU) का मुख्य काम क्या है?",
+      "options": [
+        "Arithmetic calculation",
+        "Instructions को manage करना",
+        "Printing",
+        "Data entry"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Instructions को manage करना** CU instructions को fetch, decode और coordinate करके अलग-अलग units को काम करने के लिए निर्देश देता है। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "ALU किस काम के लिए होती है?",
+      "options": [
+        "Logical और arithmetic operations",
+        "केवल storage",
+        "केवल input",
+        "केवल output"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Logical और arithmetic operations** ALU addition, subtraction, multiplication जैसी arithmetic operations और logical operations करती है। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "निम्न में से input device कौन-सा है?",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Keyboard** Keyboard user से data और instructions लेने वाला input device है। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "निम्न में से output device कौन-सा है?",
+      "options": [
+        "Mouse",
+        "Scanner",
+        "Monitor",
+        "Joystick"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Monitor** Monitor CPU से मिली जानकारी को user के सामने display करता है, इसलिए यह output device है। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Primary memory के दो मुख्य प्रकार कौन-से हैं?",
+      "options": [
+        "HDD और SSD",
+        "RAM और ROM",
+        "Pen drive और CD",
+        "Cache और Flash"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. RAM और ROM** Primary memory दो प्रकार की होती है — RAM और ROM। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "RAM के बारे में सही कथन कौन-सा है?",
+      "options": [
+        "यह non-volatile होती है",
+        "Power off होने पर data बना रहता है",
+        "यह volatile होती है",
+        "यह केवल read-only होती है"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. यह volatile होती है** RAM volatile memory है; power बंद होने पर इसका data मिट जाता है। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "ROM के बारे में सही कथन कौन-सा है?",
+      "options": [
+        "यह volatile होती है",
+        "यह permanent storage देती है",
+        "इसमें data लिखना आसान होता है",
+        "यह temporary memory है"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. यह permanent storage देती है** ROM non-volatile memory है और इसमें program/data स्थायी रूप से store रहते हैं। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "निम्न में से सबसे तेज memory किसको माना जाता है?",
+      "options": [
+        "Hard disk",
+        "RAM",
+        "Cache memory",
+        "ROM"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Cache memory** Cache memory CPU और main memory के बीच लगी होती है, और इसका access time CPU speed के बहुत करीब होता है; इसी वजह से यह बहुत तेज होती है। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Byte कितने bits के बराबर होता है?",
+      "options": [
+        "4 bits",
+        "8 bits",
+        "16 bits",
+        "32 bits"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. 8 bits** 8 bits मिलकर 1 byte बनाते हैं। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Random access / Direct access का क्या अर्थ है?",
+      "options": [
+        "Data को क्रम से पढ़ना",
+        "Data को किसी भी memory location से सीधे access करना",
+        "केवल backup लेना",
+        "केवल print करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Data को किसी भी memory location से सीधे access करना** Random access में किसी भी memory location को सीधे access किया जा सकता है; data access order पर निर्भर नहीं करता। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Sequential access memory में data कैसे पढ़ा जाता है?",
+      "options": [
+        "एकदम random order में",
+        "memory address के बिना",
+        "क्रम से",
+        "केवल reverse order में"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. क्रम से** Sequential access में data sequence में पढ़ा जाता है; इसी कारण यह comparatively धीमा हो सकता है। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "LAN का सही full form क्या है?",
+      "options": [
+        "Large Area Network",
+        "Local Area Network",
+        "Long Access Network",
+        "Linked Area Node"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Local Area Network** LAN एक सीमित क्षेत्र जैसे room, office, school या campus तक फैला network होता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "WAN क्या दर्शाता है?",
+      "options": [
+        "केवल एक room तक network",
+        "city-level network",
+        "अलग-अलग देशों/महाद्वीपों तक फैला network",
+        "केवल Bluetooth connection"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. अलग-अलग देशों/महाद्वीपों तक फैला network** WAN कई LAN और MAN को जोड़ता है और बड़े geographic area में काम करता है; Internet इसका सबसे बड़ा उदाहरण है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "LAN की सामान्य coverage के बारे में कौन-सा कथन सही है?",
+      "options": [
+        "यह 30–40 km तक होता है",
+        "यह एक कमरे से campus तक हो सकता है",
+        "यह सिर्फ country-level network है",
+        "यह केवल satellites से चलता है"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. यह एक कमरे से campus तक हो सकता है** LAN का क्षेत्र छोटे परिसर से लेकर campus तक हो सकता है, और यह high-speed short-range communication देता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Ethernet किससे संबंधित है?",
+      "options": [
+        "LAN में devices को connect करने के rules",
+        "ROM programming",
+        "Printer cartridge",
+        "Antivirus software"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. LAN में devices को connect करने के rules** Ethernet set of rules है जो LAN में computers और devices के बीच cable-based connection को तय करता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Flash memory के बारे में सही कथन कौन-सा है?",
+      "options": [
+        "यह volatile होती है",
+        "power off होने पर data मिट जाता है",
+        "यह non-volatile होती है",
+        "यह केवल CPU के अंदर होती है"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. यह non-volatile होती है** Flash memory power बंद होने पर भी data retain करती है; pen drive और memory card इसी श्रेणी में आते हैं। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "HTML किसके लिए उपयोग होती है?",
+      "options": [
+        "Database बनाने के लिए",
+        "Web pages के markup के लिए",
+        "Virus हटाने के लिए",
+        "Operating system बनाने के लिए"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Web pages के markup के लिए** HTML web documents बनाने की markup language है। ([W3C][3])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Spreadsheet का मुख्य उपयोग क्या है?",
+      "options": [
+        "केवल games चलाना",
+        "numerical या financial data को record, calculate और compare करना",
+        "virus detect करना",
+        "internet speed बढ़ाना"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. numerical या financial data को record, calculate और compare करना** Spreadsheet rows और columns पर आधारित होता है और data को enter, process, compare करने के लिए उपयोग होता है। ([NCERT][4])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Word processor के बारे में कौन-सा कथन सही है?",
+      "options": [
+        "इससे केवल audio files बनती हैं",
+        "इससे resumes और posters बनाए जा सकते हैं",
+        "यह केवल database software है",
+        "यह केवल hardware device है"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. इससे resumes और posters बनाए जा सकते हैं** Word processor document बनाने, edit करने, और poster/resume जैसे कामों में उपयोग होता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "नया document बनाने का shortcut key क्या है?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + N",
+        "Ctrl + M",
+        "Ctrl + D"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Ctrl + N** NCERT employability skills material में नया document बनाने के लिए Ctrl + N दिया गया है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Phishing के बारे में सही कथन कौन-सा है?",
+      "options": [
+        "यह computer cleaning method है",
+        "यह fake email/website से personal info चुराने की कोशिश है",
+        "यह printer driver है",
+        "यह RAM का प्रकार है"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. यह fake email/website से personal info चुराने की कोशिश है** CERT-In के अनुसार phishing में authentic-looking emails या websites बनाकर लोगों से personal या financial information निकलवाई जाती है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "UPI का सही full form क्या है?",
+      "options": [
+        "Unified Payments Interface",
+        "Universal Payment Internet",
+        "United Processing Interface",
+        "Unique Public Interface"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Unified Payments Interface** NPCI के अनुसार UPI भारत का instant mobile payments system है, जो multiple bank accounts और payment features को एक app में जोड़ता है। ([NPCI][5])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "IndiaAI Mission के बारे में कौन-सा कथन सही है?",
+      "options": [
+        "यह केवल agriculture के लिए है",
+        "यह MeitY से जुड़ा AI ecosystem mission है",
+        "यह केवल banking software है",
+        "यह traffic police scheme है"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. यह MeitY से जुड़ा AI ecosystem mission है** MeitY ने IndiaAI Mission को implement करने के लिए IndiaAI division बनाया, और mission का उद्देश्य AI innovation, computing access, data quality, talent, partnerships और ethical AI को बढ़ावा देना है। ([MeitY][6])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "NCERT Class XII Computer Science/IT syllabus में emerging trends के रूप में कौन-सा topic शामिल है?",
+      "options": [
+        "Artificial Intelligence",
+        "Big Data",
+        "Cloud Computing",
+        "उपरोक्त सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "D. उपरोक्त सभी** NCERT की higher secondary computer books में AI, Big Data, IoT, Cloud Computing और Blockchain जैसे emerging trends शामिल हैं।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "निम्न में से कौन-सा device common network device है?",
+      "options": [
+        "Modem",
+        "Stapler",
+        "Scanner only",
+        "Keyboard only"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Modem** NCERT के अनुसार modem digital और analog signals के बीच conversion के लिए उपयोग होता है और networking में काम आता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Pen drive किस प्रकार की storage है?",
+      "options": [
+        "Primary memory",
+        "Secondary memory",
+        "Cache memory",
+        "Register memory"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Secondary memory** Pen drive portable flash memory है और secondary storage device के रूप में उपयोग होती है। ([NIOS Digital][1])",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "निम्न में से कौन-सा कथन सही है?",
+      "options": [
+        "ROM volatile memory है",
+        "RAM permanent memory है",
+        "RAM volatile है और ROM non-volatile है",
+        "दोनों volatile हैं"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. RAM volatile है और ROM non-volatile है** RAM power off होने पर data खो देती है, जबकि ROM में data स्थायी रहता है। ([NIOS Digital][1]) अगर तुम चाहो, मैं अगला set **50 और MCQs** का बना दूँगा — उसी style में, लेकिन और भी **UKSSSC PYQ-like tricky** level पर। 1]: https://digital.nios.ac.in/content/330en/Lesson_01.pdf \"Lesson_01.pmd\" 2]: https://digital.nios.ac.in/content/330en/Lesson_01.pdf?utm_source=chatgpt.com \"Lesson_01.pmd\" 3]: https://www.w3.org/TR/2012/WD-html-markup-20121025/ \"HTML: The Markup Language (an HTML language reference)\" 4]: https://ncert.nic.in/textbook/pdf/leca102.pdf \"Chapter_2.pmd\" 5]: https://www.npci.org.in/product/upi?utm_source=chatgpt.com \"UPI: Unified Payments Interface - Instant Mobile Payments\" 6]: https://www.meity.gov.in/static/uploads/2025/02/2bd3787a22291c25faaeddc76b4db1b8.pdf \"Microsoft Word - AM - Marketing Communications- Final Draft\" ठीक है 👍 अब मैं सीधे **31 से शुरू करके continuous MCQ set** दे रहा हूँ — UKSSSC exam setter mindset + tricky options + clear explanation** मैं इस message में **31–60 (30 questions)** दे रहा हूँ। ऐसे ही आगे 60–100, 100–200 भी बना दूँगा) MCQ Set (31–60) – Computer + Current Affairs",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "निम्न में से कौन-सा volatile memory नहीं है?**",
+      "options": [
+        "RAM",
+        "Cache",
+        "Register",
+        "ROM"
+      ],
+      "correctIndex": 3,
+      "explanation": "D. ROM** RAM, Cache और Register volatile हैं; ROM non-volatile है और data permanent रहता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "कंप्यूटर में सबसे छोटी memory unit क्या है?**",
+      "options": [
+        "Byte",
+        "Bit",
+        "Nibble",
+        "Word"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Bit** Bit (0 या 1) सबसे छोटी इकाई है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Nibble = ?**",
+      "options": [
+        "2 bits",
+        "4 bits",
+        "8 bits",
+        "16 bits"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. 4 bits** 4 bits मिलकर 1 nibble बनाते हैं।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Hard Disk किस प्रकार की access method का उपयोग करता है?**",
+      "options": [
+        "Sequential",
+        "Direct",
+        "Random",
+        "B और C दोनों"
+      ],
+      "correctIndex": 3,
+      "explanation": "D. B और C दोनों** Hard disk direct/random access support करता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "कंप्यूटर की speed किसमें measure होती है?**",
+      "options": [
+        "Byte",
+        "Hertz",
+        "Meter",
+        "Volt"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Hertz** CPU speed Hz (GHz आदि) में मापी जाती है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "निम्न में से कौन सा system software है?**",
+      "options": [
+        "MS Word",
+        "Excel",
+        "Windows",
+        "PowerPoint"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Windows** Operating System system software होता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Booting का अर्थ क्या है?**",
+      "options": [
+        "Shut down करना",
+        "Restart करना",
+        "System start करना",
+        "Data delete करना"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. System start करना** Booting में OS load होता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Cold Booting क्या है?**",
+      "options": [
+        "Restart",
+        "Power ON करके start करना",
+        "Sleep mode",
+        "Hibernate"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Power ON करके start करना** Cold boot = fresh start",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Warm Booting क्या है?**",
+      "options": [
+        "Power off करना",
+        "Restart करना",
+        "Shutdown",
+        "Login"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Restart करना**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "निम्न में से कौन सा output device नहीं है?**",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Speaker",
+        "Scanner"
+      ],
+      "correctIndex": 3,
+      "explanation": "D. Scanner** Scanner input device है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Compiler और Interpreter में मुख्य अंतर क्या है?**",
+      "options": [
+        "दोनों same हैं",
+        "Compiler पूरा program एक बार में convert करता है",
+        "Interpreter पूरा program convert करता है",
+        "दोनों hardware हैं"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Compiler पूरा program एक बार में convert करता है** Interpreter line-by-line करता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "कौन सा high-level language है?**",
+      "options": [
+        "Machine language",
+        "Assembly",
+        "C",
+        "Binary"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. C**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Machine language में instructions कैसे होते हैं?**",
+      "options": [
+        "English",
+        "Binary (0 और 1)",
+        "Hindi",
+        "Symbols"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Binary**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "GUI का पूरा नाम क्या है?**",
+      "options": [
+        "General User Interface",
+        "Graphical User Interface",
+        "Graphic Utility Interface",
+        "General Utility Interface"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Graphical User Interface**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "MS Excel में row और column के intersection को क्या कहते हैं?**",
+      "options": [
+        "Sheet",
+        "Cell",
+        "Table",
+        "Box"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Cell**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Excel में maximum rows (modern version) लगभग कितनी होती हैं?**",
+      "options": [
+        "65536",
+        "1048576",
+        "500000",
+        "100000"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. 1048576**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "PowerPoint किसलिए उपयोग होता है?**",
+      "options": [
+        "Coding",
+        "Presentation",
+        "Networking",
+        "Antivirus"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Presentation**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Database में primary key क्या होती है?**",
+      "options": [
+        "Duplicate value",
+        "Unique identifier",
+        "Random value",
+        "Optional field"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Unique identifier**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "SQL का उपयोग किस लिए होता है?**",
+      "options": [
+        "Hardware design",
+        "Database management",
+        "Gaming",
+        "Networking"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Database management**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Internet पर data भेजने के लिए कौन सा protocol उपयोग होता है?**",
+      "options": [
+        "HTTP",
+        "TCP/IP",
+        "FTP",
+        "SMTP"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. TCP/IP** Core communication protocol Current + Advanced",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "G technology की speed किसके मुकाबले ज्यादा है?**",
+      "options": [
+        "2G",
+        "3G",
+        "4G",
+        "सभी"
+      ],
+      "correctIndex": 3,
+      "explanation": "D. सभी**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Cloud storage का उदाहरण कौन सा है?**",
+      "options": [
+        "Hard Disk",
+        "Google Drive",
+        "RAM",
+        "ROM"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Google Drive**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Malware का मतलब क्या है?**",
+      "options": [
+        "Useful software",
+        "Harmful software",
+        "System software",
+        "Utility"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Harmful software**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Antivirus का काम क्या है?**",
+      "options": [
+        "Data delete करना",
+        "Virus detect और remove करना",
+        "Speed बढ़ाना",
+        "Internet चलाना"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Virus detect और remove करना**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "OTP का उपयोग क्यों किया जाता है?**",
+      "options": [
+        "Speed के लिए",
+        "Security के लिए",
+        "Storage के लिए",
+        "Printing के लिए"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Security के लिए**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "URL में “HTTP” का मतलब क्या है?**",
+      "options": [
+        "Hyper Text Transfer Protocol",
+        "High Transfer Text Protocol",
+        "Hyper Transfer Tool Protocol",
+        "High Text Tool Protocol"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Hyper Text Transfer Protocol**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "E-commerce का अर्थ क्या है?**",
+      "options": [
+        "Electronic communication",
+        "Online buying/selling",
+        "Email service",
+        "Networking"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Online buying/selling**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "QR code का उपयोग किस लिए होता है?**",
+      "options": [
+        "Printing",
+        "Data storage",
+        "Quick scanning/payment",
+        "Gaming"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Quick scanning/payment**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Artificial Intelligence का मुख्य उद्देश्य क्या है?**",
+      "options": [
+        "Data storage",
+        "Human-like intelligence",
+        "केवल gaming",
+        "केवल internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Human-like intelligence**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Blockchain का उपयोग मुख्य रूप से कहाँ होता है?**",
+      "options": [
+        "Email",
+        "Cryptocurrency",
+        "Printer",
+        "RAM"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Cryptocurrency** आगे क्या? अगर तुम serious तैयारी कर रहे हो तो मैं next बना सकता हूँ: 61–120 (PYQ level tricky)** Full Mock Test (UKSSSC pattern)** केवल Computer Current Affairs 2026** बस बोलो — मैं तुम्हें **top level तैयारी** करवा दूँगा 🚀 समझ गया 👍 अब मैं **61 से आगे** questions दे रहा हूँ — focus: **Latest trends (AI, Cyber Security, Digital India, 5G, Cloud, Data, Govt schemes)** level: **UKSSSC + current + concept mix (थोड़ा tricky)** MCQ Set (61–100) – Computer + Current Affairs (Latest Focus)",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Generative AI” का मुख्य उपयोग क्या है?**",
+      "options": [
+        "Data delete करना",
+        "New content generate करना",
+        "केवल storage",
+        "केवल networking"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. New content generate करना** Generative AI text, image, code आदि नया content बना सकता है (जैसे ChatGPT)।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "ChatGPT किस category का AI है?**",
+      "options": [
+        "Narrow AI",
+        "Generative AI",
+        "Super AI",
+        "Robotics AI"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Generative AI**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Machine Learning” किसका subset है?**",
+      "options": [
+        "Networking",
+        "Artificial Intelligence",
+        "Database",
+        "Hardware"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Artificial Intelligence** ML, AI का भाग है जिसमें system खुद सीखता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Deep Learning” किससे संबंधित है?**",
+      "options": [
+        "CPU",
+        "Neural Networks",
+        "Printer",
+        "Excel"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Neural Networks**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "भारत सरकार का “IndiaAI Mission” किससे संबंधित है?**",
+      "options": [
+        "Agriculture",
+        "Artificial Intelligence ecosystem",
+        "Banking",
+        "Defence only"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Artificial Intelligence ecosystem**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Digital India” initiative का मुख्य उद्देश्य क्या है?**",
+      "options": [
+        "केवल internet देना",
+        "Government services को digital बनाना",
+        "Gaming बढ़ाना",
+        "केवल mobile देना"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Government services को digital बनाना**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BharatNet” project किससे संबंधित है?**",
+      "options": [
+        "Banking",
+        "Rural broadband connectivity",
+        "AI",
+        "Space"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Rural broadband connectivity**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "G technology का मुख्य feature क्या है?**",
+      "options": [
+        "High latency",
+        "Low speed",
+        "Ultra-fast speed + low latency",
+        "No internet"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Ultra-fast speed + low latency**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Latency” का मतलब क्या है?**",
+      "options": [
+        "Storage capacity",
+        "Delay in data transfer",
+        "Speed",
+        "Security"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Delay in data transfer**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Internet of Things (IoT)” क्या है?**",
+      "options": [
+        "Only internet",
+        "Connected smart devices network",
+        "केवल computers",
+        "Software"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Connected smart devices network**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Smartwatch और Smart Home किस category में आते हैं?**",
+      "options": [
+        "AI",
+        "IoT",
+        "Cloud",
+        "Database"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. IoT**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Cloud Computing में “SaaS” का अर्थ क्या है?**",
+      "options": [
+        "Software as a Service",
+        "Storage as a System",
+        "Server as a Software",
+        "System as a Service"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Software as a Service**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Google Drive किसका उदाहरण है?**",
+      "options": [
+        "SaaS",
+        "IaaS",
+        "PaaS",
+        "Hardware"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. SaaS**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Data Privacy” किससे संबंधित है?**",
+      "options": [
+        "Hardware",
+        "Personal data protection",
+        "Speed",
+        "Network"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Personal data protection**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "भारत में data protection के लिए कौन सा कानून आया?**",
+      "options": [
+        "IT Act 2000",
+        "Digital Personal Data Protection Act",
+        "Cyber Law Act",
+        "Data Storage Act"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Digital Personal Data Protection Act (2023)**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Cyber Attack” का उदाहरण कौन सा है?**",
+      "options": [
+        "Email भेजना",
+        "Hacking",
+        "Printing",
+        "Typing"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Hacking**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Ransomware” क्या करता है?**",
+      "options": [
+        "Data delete करता है",
+        "Data lock करके पैसे मांगता है",
+        "Speed बढ़ाता है",
+        "Antivirus है"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Data lock करके पैसे मांगता है**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Phishing attack” में क्या होता है?**",
+      "options": [
+        "Real email",
+        "Fake email से data चोरी",
+        "Speed बढ़ाना",
+        "Printing"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Fake email से data चोरी**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Two-factor authentication (2FA) क्यों उपयोग होता है?**",
+      "options": [
+        "Speed",
+        "Extra security",
+        "Storage",
+        "Internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Extra security**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "UPI Lite” किसके लिए launch किया गया?**",
+      "options": [
+        "Large payment",
+        "Small offline payments",
+        "Gaming",
+        "Email"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Small offline payments** Advanced + Mixed",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Blockchain” में data कैसे store होता है?**",
+      "options": [
+        "Table",
+        "Blocks linked in chain",
+        "File",
+        "RAM"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Blocks linked in chain**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Cryptocurrency किस technology पर आधारित है?**",
+      "options": [
+        "Cloud",
+        "Blockchain",
+        "AI",
+        "IoT"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Blockchain**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Metaverse” क्या है?**",
+      "options": [
+        "Hardware",
+        "Virtual digital world",
+        "Software",
+        "Network"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Virtual digital world**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Augmented Reality (AR)” क्या है?**",
+      "options": [
+        "Real world + digital elements",
+        "Only virtual world",
+        "Only game",
+        "Hardware"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Real world + digital elements**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Virtual Reality (VR)” क्या है?**",
+      "options": [
+        "Real world",
+        "Completely virtual environment",
+        "Networking",
+        "Storage"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Completely virtual environment**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Big Data” का मतलब क्या है?**",
+      "options": [
+        "Small data",
+        "Large complex data sets",
+        "Only text",
+        "केवल image"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Large complex data sets**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Data Analytics” का उपयोग किस लिए होता है?**",
+      "options": [
+        "Data delete",
+        "Data analysis",
+        "Printing",
+        "Storage"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Data analysis**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Super Computer” का उपयोग कहाँ होता है?**",
+      "options": [
+        "Gaming",
+        "Weather forecasting",
+        "Typing",
+        "Printing"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Weather forecasting**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "भारत का एक supercomputer कौन सा है?**",
+      "options": [
+        "PARAM",
+        "Windows",
+        "Linux",
+        "Excel"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. PARAM**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Quantum Computing” का आधार क्या है?**",
+      "options": [
+        "Bits",
+        "Qubits",
+        "Bytes",
+        "RAM"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Qubits**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Email spam” क्या है?**",
+      "options": [
+        "Important mail",
+        "Unwanted mail",
+        "Virus",
+        "Storage"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Unwanted mail**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Firewall” का उपयोग किस लिए होता है?**",
+      "options": [
+        "Speed",
+        "Security",
+        "Storage",
+        "Output"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Security**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Open Source Software” क्या है?**",
+      "options": [
+        "Paid software",
+        "Free + source code available",
+        "Hardware",
+        "Virus"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Free + source code available**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Linux किस प्रकार का software है?**",
+      "options": [
+        "Application",
+        "Operating System",
+        "Utility",
+        "Game"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Operating System**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "OTP” का full form क्या है?**",
+      "options": [
+        "One Time Password",
+        "Only Text Password",
+        "One Type Password",
+        "Open Text Password"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. One Time Password**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "IP Address” क्या होता है?**",
+      "options": [
+        "Password",
+        "Unique address of device",
+        "Software",
+        "Hardware"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Unique address of device**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "IPv4 में कितने bits होते हैं?**",
+      "options": [
+        "16",
+        "32",
+        "64",
+        "128"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. 32**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "IPv6 में कितने bits होते हैं?**",
+      "options": [
+        "32",
+        "64",
+        "128",
+        "256"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. 128**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Domain Name” का काम क्या है?**",
+      "options": [
+        "Data store करना",
+        "IP address को easy नाम देना",
+        "Speed बढ़ाना",
+        "Security"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. IP address को easy नाम देना**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "DNS” का full form क्या है?**",
+      "options": [
+        "Domain Name System",
+        "Data Network System",
+        "Digital Name Service",
+        "Domain Network Service"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Domain Name System** आगे क्या? अगर तुम सच में selection mode में हो तो मैं next बना सकता हूँ: 101–200 (Full PYQ level + trap questions)** Only Current Affairs 2025–26 Computer (50 MCQs)** Full Mock Test (UKSSSC pattern)** बस बोलो — अब next level ले जाते हैं 💯 समझ गया 👍 अब पूरा focus सिर्फ **BIOS (Basic Input/Output System)** पर — UKSSSC exam setter level + trap questions + clear explanation** मैं तुम्हें **BIOS से 40 MCQs (hard + tricky)** दे रहा हूँ। BIOS MCQ Set (Ultra Important for Exams)",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS का पूरा नाम क्या है?**",
+      "options": [
+        "Basic Input Output System",
+        "Binary Input Output System",
+        "Basic Internal Operating System",
+        "Binary Internal OS"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Basic Input Output System** BIOS firmware होता है जो hardware और OS के बीच interface बनाता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS कहाँ store होता है?**",
+      "options": [
+        "RAM",
+        "Hard Disk",
+        "ROM",
+        "Cache"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. ROM** BIOS non-volatile memory (ROM/Flash) में रहता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS का मुख्य कार्य क्या है?**",
+      "options": [
+        "Printing",
+        "Hardware initialize करना",
+        "Gaming",
+        "Typing"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Hardware initialize करना** System start होते ही hardware check करता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS सबसे पहले क्या करता है?**",
+      "options": [
+        "OS load",
+        "POST",
+        "Login",
+        "Shutdown"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. POST** Power On Self Test (POST) सबसे पहले चलता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "POST का पूरा नाम क्या है?**",
+      "options": [
+        "Power On Self Test",
+        "Program On System Test",
+        "Process Operating System Test",
+        "Power Operating Setup Test"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Power On Self Test**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "POST किसे check करता है?**",
+      "options": [
+        "Software",
+        "Hardware",
+        "Internet",
+        "User"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Hardware** RAM, keyboard, CPU आदि check करता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS का अगला काम POST के बाद क्या होता है?**",
+      "options": [
+        "Shutdown",
+        "OS load करना",
+        "Typing",
+        "Printing"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. OS load करना** Boot loader के जरिए OS load होता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Booting process में BIOS किसे खोजता है?**",
+      "options": [
+        "RAM",
+        "OS",
+        "Bootable device",
+        "Printer"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Bootable device**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Bootable device का उदाहरण कौन सा है?**",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Hard Disk",
+        "Mouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Hard Disk**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS किस प्रकार का software है?**",
+      "options": [
+        "Application",
+        "System",
+        "Firmware",
+        "Utility"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Firmware**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS setup कहाँ access किया जाता है?**",
+      "options": [
+        "OS के अंदर",
+        "Boot time पर",
+        "Shutdown पर",
+        "Login के बाद"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Boot time पर**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS setup खोलने के लिए कौन सी key use होती है?**",
+      "options": [
+        "Ctrl",
+        "Alt",
+        "Del/F2",
+        "Shift"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. Del/F2** अलग-अलग systems में अलग key हो सकती है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "CMOS का उपयोग किस लिए होता है?**",
+      "options": [
+        "RAM storage",
+        "BIOS settings store करना",
+        "OS load करना",
+        "Printer control"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. BIOS settings store करना**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "CMOS battery का काम क्या है?**",
+      "options": [
+        "System start करना",
+        "Time और settings save रखना",
+        "RAM control",
+        "Monitor चलाना"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "CMOS battery हटाने पर क्या होगा?**",
+      "options": [
+        "OS delete",
+        "Time reset",
+        "RAM delete",
+        "BIOS delete"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** Time और BIOS settings reset हो जाती हैं। Trap Level Questions",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS और OS में संबंध क्या है?**",
+      "options": [
+        "BIOS OS के बाद चलता है",
+        "BIOS OS को load करता है",
+        "OS BIOS को load करता है",
+        "दोनों unrelated हैं"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS किसके बिना काम नहीं कर सकता?**",
+      "options": [
+        "CPU",
+        "RAM",
+        "Hard disk",
+        "Printer"
+      ],
+      "correctIndex": 0,
+      "explanation": "A** CPU के बिना कुछ execute नहीं होगा।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS update को क्या कहते हैं?**",
+      "options": [
+        "Flashing",
+        "Booting",
+        "Formatting",
+        "Resetting"
+      ],
+      "correctIndex": 0,
+      "explanation": "A. Flashing**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS का नया version क्या कहलाता है?**",
+      "options": [
+        "DOS",
+        "UEFI",
+        "GUI",
+        "CLI"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. UEFI**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "UEFI का फायदा क्या है?**",
+      "options": [
+        "Slow boot",
+        "Fast boot",
+        "No boot",
+        "No OS"
+      ],
+      "correctIndex": 1,
+      "explanation": "B. Fast boot**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS किस architecture पर आधारित है?**",
+      "options": [
+        "Software",
+        "Hardware dependent",
+        "Network",
+        "Cloud"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS password का उपयोग किस लिए होता है?**",
+      "options": [
+        "Internet",
+        "Security",
+        "Printing",
+        "Gaming"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS reset कैसे किया जाता है?**",
+      "options": [
+        "RAM remove",
+        "CMOS reset",
+        "OS delete",
+        "Keyboard"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Boot order कहाँ सेट होता है?**",
+      "options": [
+        "OS",
+        "BIOS",
+        "RAM",
+        "CPU"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS किसको detect करता है?**",
+      "options": [
+        "Hardware devices",
+        "Software",
+        "Internet",
+        "User"
+      ],
+      "correctIndex": 0,
+      "explanation": "A** Advanced + PYQ Style",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS का मुख्य limitation क्या है?**",
+      "options": [
+        "Slow boot",
+        "Limited features",
+        "No OS",
+        "No RAM"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS किस generation से है?**",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "All"
+      ],
+      "correctIndex": 0,
+      "explanation": "A (conceptually early PC firmware)**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS chip किस type की होती है?**",
+      "options": [
+        "RAM",
+        "ROM/Flash",
+        "HDD",
+        "Cache"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS failure का मतलब क्या है?**",
+      "options": [
+        "OS crash",
+        "System boot नहीं होगा",
+        "RAM fail",
+        "Printer fail"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Beep sound कब आता है?**",
+      "options": [
+        "Normal boot",
+        "Error during POST",
+        "Shutdown",
+        "Login"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** Final High Trap",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS और CMOS में क्या अंतर है?**",
+      "options": [
+        "दोनों same",
+        "BIOS software, CMOS memory",
+        "CMOS software",
+        "BIOS hardware"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS upgrade क्यों किया जाता है?**",
+      "options": [
+        "Speed",
+        "Compatibility",
+        "Storage",
+        "Internet"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS किससे पहले चलता है?**",
+      "options": [
+        "OS",
+        "RAM",
+        "CPU",
+        "HDD"
+      ],
+      "correctIndex": 0,
+      "explanation": "A (OS से पहले)**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS किसको control नहीं करता?**",
+      "options": [
+        "Hardware",
+        "Boot process",
+        "Application software",
+        "Memory"
+      ],
+      "correctIndex": 2,
+      "explanation": "C**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Legacy BIOS किसका पुराना version है?**",
+      "options": [
+        "UEFI",
+        "OS",
+        "RAM",
+        "CPU"
+      ],
+      "correctIndex": 0,
+      "explanation": "A**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS किस प्रकार का interface देता है?**",
+      "options": [
+        "Graphical",
+        "Text-based",
+        "Both",
+        "None"
+      ],
+      "correctIndex": 1,
+      "explanation": "B (mostly traditional BIOS)**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "UEFI में interface कैसा होता है?**",
+      "options": [
+        "Text",
+        "Graphical",
+        "No interface",
+        "CLI only"
+      ],
+      "correctIndex": 1,
+      "explanation": "B**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS में कौन सी setting नहीं होती?**",
+      "options": [
+        "Boot order",
+        "Time/date",
+        "Antivirus",
+        "Hardware config"
+      ],
+      "correctIndex": 2,
+      "explanation": "C**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS किसको initialize करता है?**",
+      "options": [
+        "Hardware",
+        "Software",
+        "Internet",
+        "User"
+      ],
+      "correctIndex": 0,
+      "explanation": "A**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS का primary role क्या है?**",
+      "options": [
+        "OS run करना",
+        "Hardware और OS के बीच bridge",
+        "Storage",
+        "Network"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** Final बात अब BIOS से: Concept clear Trap clear PYQ level covered अगर चाहो next: OS (Operating System) full MCQ set** Networking full trap set** Computer one-liner revision 500+** बस बोलो — अब weak topic खत्म करते हैं 💯 ठीक पकड़ा तुमने 👍 — बिना explanation के practice अधूरी रहती है। अब मैं वही **BIOS topic** को फिर से दे रहा हूँ, लेकिन इस बार **हर question का clear, exam-useful explanation** के साथ (short + solid, जैसा paper के लिए चाहिए)। BIOS MCQ (Explanation के साथ – Proper Exam Level)",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS का पहला कार्य क्या होता है?**",
+      "options": [
+        "OS load करना",
+        "POST चलाना",
+        "Login करना",
+        "Application खोलना"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** System ON होते ही BIOS सबसे पहले POST (Power-On Self Test) चलाता है ताकि hardware सही है या नहीं यह check हो सके।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "POST का मुख्य उद्देश्य क्या है?**",
+      "options": [
+        "Software check करना",
+        "Hardware check करना",
+        "Internet connect करना",
+        "OS install करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** POST RAM, keyboard, CPU, motherboard आदि hardware components को test करता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "POST के बाद BIOS क्या करता है?**",
+      "options": [
+        "Shutdown",
+        "Boot device search",
+        "Game open",
+        "Print"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** POST के बाद BIOS bootable device (HDD/SSD/USB) खोजता है जहाँ OS मौजूद होता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Booting process में BIOS क्या करता है?**",
+      "options": [
+        "RAM delete",
+        "OS load शुरू करता है",
+        "Printer start",
+        "Mouse control"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** BIOS boot loader को trigger करता है जिससे OS memory में load होता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "CMOS का कार्य क्या है?**",
+      "options": [
+        "OS run करना",
+        "BIOS settings store करना",
+        "RAM store करना",
+        "Data process करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** CMOS memory में BIOS settings (date, time, boot order) store रहती हैं।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "CMOS battery का मुख्य कार्य क्या है?**",
+      "options": [
+        "System ON करना",
+        "Settings और time बनाए रखना",
+        "RAM power देना",
+        "CPU चलाना"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** CMOS battery system बंद होने पर भी BIOS settings और system clock को maintain रखती है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "CMOS battery निकालने पर क्या होगा?**",
+      "options": [
+        "OS delete",
+        "Time reset",
+        "RAM crash",
+        "BIOS delete"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** Battery हटाने पर BIOS settings और system time default पर reset हो जाते हैं। Trap Level",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS और OS में क्या संबंध है?**",
+      "options": [
+        "OS पहले चलता है",
+        "BIOS OS को load करता है",
+        "OS BIOS को load करता है",
+        "दोनों अलग हैं"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** BIOS पहले चलता है और फिर OS को load करता है; OS BIOS पर depend करता है booting के लिए।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS का modern version क्या है?**",
+      "options": [
+        "DOS",
+        "UEFI",
+        "GUI",
+        "API"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** UEFI (Unified Extensible Firmware Interface) BIOS का advanced version है जो fast boot और graphical interface देता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "UEFI का एक मुख्य advantage क्या है?**",
+      "options": [
+        "Slow speed",
+        "Fast boot",
+        "No OS support",
+        "Low memory"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** UEFI BIOS की तुलना में faster booting और better hardware support देता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS password क्यों लगाया जाता है?**",
+      "options": [
+        "Speed",
+        "Security",
+        "Storage",
+        "Printing"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** Unauthorized access से system को सुरक्षित रखने के लिए BIOS password लगाया जाता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "Boot order कहाँ सेट किया जाता है?**",
+      "options": [
+        "OS",
+        "BIOS",
+        "RAM",
+        "CPU"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** BIOS setup में user तय करता है कि पहले HDD, USB या CD से boot होगा।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS beep sound कब आती है?**",
+      "options": [
+        "Normal boot",
+        "Error during POST",
+        "Shutdown",
+        "Login"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** POST के दौरान hardware error होने पर BIOS beep code देता है।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS failure होने पर क्या होगा?**",
+      "options": [
+        "OS crash",
+        "System boot नहीं होगा",
+        "RAM fail",
+        "Printer error"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** BIOS corrupt होने पर system start ही नहीं हो पाएगा।",
+      "questionType": "mcq",
+      "subCategory": "Computer"
+    },
+    {
+      "question": "BIOS का मुख्य role क्या है?**",
+      "options": [
+        "Application run",
+        "Hardware और OS के बीच bridge",
+        "Storage",
+        "Networking"
+      ],
+      "correctIndex": 1,
+      "explanation": "B** BIOS hardware को OS के साथ communicate करने योग्य बनाता है। Important Note (Exam Trick) BIOS = Firmware (बहुत पूछा जाता है) POST = Hardware check CMOS = Settings store UEFI = Modern BIOS अगर अब तुम चाहो तो मैं अगला बना दूँ: OS (100 MCQ full trap)** Networking (most asked questions)** PYQ repeated questions analysis** बस बोलो — अब preparation को next level ले चलते हैं 🚀 नमस्ते! आपकी नई क्विज़ ऐप के लिए, एक परीक्षक (Examiner) के नज़रिए से, मैंने NCERT भूगोल (कक्षा 6 से 12 - भारत और विश्व) के सबसे महत्वपूर्ण और कॉन्सेप्ट-आधारित सवालों का एक बेहतरीन डेटाबेस तैयार किया है। डार्क-मोड और मिनिमलिस्ट 'लिक्विड ग्लास' डिज़ाइन वाले आपके ऐप के यूआई में ये सवाल बहुत शानदार लगेंगे। चूँकि एक बार में 500 प्रश्नों को जनरेट करने की तकनीकी सीमा (Output Length Limit) होती है, इसलिए इस पहले भाग में मैं आपको **25 अत्यंत महत्वपूर्ण और उच्च-स्तरीय (High-Yield) प्रश्न** विस्तृत व्याख्या के साथ दे रहा हूँ। यह आपके ऐप के डेटाबेस के लिए एकदम सटीक फॉर्मेट है: कक्षा 6 से 12 - NCERT भूगोल: मास्टर क्विज़ डेटाबेस (भाग 1)**",
+      "questionType": "mcq",
+      "subCategory": "Computer"
     }
   ]
 }
