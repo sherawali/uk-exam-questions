@@ -15,7 +15,8 @@
       "correctIndex": 0,
       "explanation": "दिल्ली सल्तनत की स्थापना 1206 में कुतुबुद्दीन ऐबक द्वारा की गई थी, जो मुहम्मद गोरी का गुलाम था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "प्रथम तराइन का युद्ध कब लड़ा गया था?",
@@ -28,7 +29,8 @@
       "correctIndex": 0,
       "explanation": "प्रथम तराइन का युद्ध 1191 में मुहम्मद गोरी और पृथ्वीराज चौहान के बीच लड़ा गया, जिसमें पृथ्वीराज की जीत हुई।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "द्वितीय तराइन का युद्ध किसके बीच लड़ा गया था?",
@@ -41,7 +43,8 @@
       "correctIndex": 0,
       "explanation": "द्वितीय तराइन का युद्ध 1192 में मुहम्मद गोरी और पृथ्वीराज चौहान के बीच लड़ा गया, जिसमें गोरी की जीत हुई।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "कुतुब मीनार का निर्माण किसने शुरू किया था?",
@@ -54,7 +57,8 @@
       "correctIndex": 0,
       "explanation": "कुतुब मीनार का निर्माण कुतुबुद्दीन ऐबक ने शुरू किया और इल्तुतमिश ने इसे पूरा किया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "दिल्ली सल्तनत की प्रथम महिला शासक कौन थी?",
@@ -67,7 +71,8 @@
       "correctIndex": 0,
       "explanation": "रजिया सुल्तान (1236-1240) दिल्ली सल्तनत की प्रथम और एकमात्र महिला शासक थीं।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "इल्तुतमिश ने किसे अपनी उत्तराधिकारी नियुक्त किया था?",
@@ -80,7 +85,8 @@
       "correctIndex": 0,
       "explanation": "इल्तुतमिश ने अपनी बेटी रजिया सुल्तान को अपनी उत्तराधिकारी नियुक्त किया था, जो एक ऐतिहासिक निर्णय था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "अलाउद्दीन खिलजी ने किस प्रशासनिक सुधार को लागू किया था?",
@@ -93,7 +99,8 @@
       "correctIndex": 0,
       "explanation": "अलाउद्दीन खिलजी ने सेना में 'दाग' और 'चेहरा' प्रथा शुरू की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "अलाउद्दीन खिलजी ने बाजार नियंत्रण नीति कब लागू की थी?",
@@ -106,7 +113,8 @@
       "correctIndex": 0,
       "explanation": "अलाउद्दीन खिलजी ने 1296 में बाजार नियंत्रण नीति लागू की, जिसमें कीमतों को नियंत्रित किया गया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "अलाउद्दीन खिलजी के दरबार में प्रसिद्ध कवि कौन थे?",
@@ -119,7 +127,8 @@
       "correctIndex": 0,
       "explanation": "अमीर खुसरो अलाउद्दीन खिलजी के दरबार में प्रसिद्ध कवि और संगीतकार थे।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "खिलजी वंश का अंतिम शासक कौन था?",
@@ -132,7 +141,8 @@
       "correctIndex": 0,
       "explanation": "कुतुबुद्दीन मुबारक शाह (1316-1320) खिलजी वंश का अंतिम शासक था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "तुगलक वंश की स्थापना किसने की थी?",
@@ -145,7 +155,8 @@
       "correctIndex": 0,
       "explanation": "गियासुद्दीन तुगलक ने 1320 में तुगलक वंश की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "मुहम्मद बिन तुगलक ने अपनी राजधानी को दिल्ली से कहाँ स्थानांतरित किया था?",
@@ -158,7 +169,8 @@
       "correctIndex": 0,
       "explanation": "मुहम्मद बिन तुगलक ने 1327 में अपनी राजधानी दिल्ली से दौलताबाद (देवगिरी) स्थानांतरित की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "मुहम्मद बिन तुगलक ने किस सिक्के को चलाने की कोशिश की थी?",
@@ -171,7 +183,8 @@
       "correctIndex": 0,
       "explanation": "मुहम्मद बिन तुगलक ने तांबे के सिक्के को चांदी के सिक्के के समान मूल्य पर चलाने की कोशिश की, जो असफल रही।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "फिरोज शाह तुगलक ने किस नहर प्रणाली का निर्माण किया था?",
@@ -184,7 +197,8 @@
       "correctIndex": 0,
       "explanation": "फिरोज शाह तुगलक ने सिंचाई के लिए यमुना नहर का निर्माण किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "सैय्यद वंश की स्थापना किसने की थी?",
@@ -197,7 +211,8 @@
       "correctIndex": 0,
       "explanation": "खिज्र खान ने 1414 में सैय्यद वंश की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "लोदी वंश का संस्थापक कौन था?",
@@ -210,7 +225,8 @@
       "correctIndex": 0,
       "explanation": "बहलोल लोदी ने 1451 में लोदी वंश की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "प्रथम पानीपत का युद्ध कब लड़ा गया था?",
@@ -223,7 +239,8 @@
       "correctIndex": 0,
       "explanation": "प्रथम पानीपत का युद्ध 1526 में बाबर और इब्राहिम लोदी के बीच लड़ा गया, जिसमें बाबर की जीत हुई।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "मुगल साम्राज्य की स्थापना किसने की थी?",
@@ -236,7 +253,8 @@
       "correctIndex": 0,
       "explanation": "बाबर ने 1526 में प्रथम पानीपत के युद्ध के बाद मुगल साम्राज्य की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "बाबरनामा के लेखक कौन थे?",
@@ -249,7 +267,8 @@
       "correctIndex": 0,
       "explanation": "बाबरनामा बाबर की आत्मकथा है, जिसे उन्होंने तुर्की भाषा में लिखा था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "हुमायूँ को किस युद्ध में शेर शाह सूरी ने हराया था?",
@@ -262,7 +281,8 @@
       "correctIndex": 0,
       "explanation": "चौसा का युद्ध 1539 में लड़ा गया, जिसमें शेर शाह सूरी ने हुमायूँ को हराया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "शेर शाह सूरी ने किस सड़क का निर्माण करवाया था?",
@@ -275,7 +295,8 @@
       "correctIndex": 0,
       "explanation": "शेर शाह सूरी ने ग्रांड ट्रंक रोड (शेरशाही सड़क) का निर्माण करवाया, जो कोलकाता से पेशावर तक थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "अकबर ने फतेहपुर सीकरी की स्थापना कब की थी?",
@@ -288,7 +309,8 @@
       "correctIndex": 0,
       "explanation": "अकबर ने 1571 में फतेहपुर सीकरी को अपनी राजधानी के रूप में स्थापित किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "अकबर ने किस धर्म की शुरुआत की थी?",
@@ -301,7 +323,8 @@
       "correctIndex": 0,
       "explanation": "अकबर ने 1582 में दीन-ए-इलाही की शुरुआत की, जो एक समन्वयवादी धर्म था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "हल्दीघाटी का युद्ध कब लड़ा गया था?",
@@ -314,7 +337,8 @@
       "correctIndex": 0,
       "explanation": "हल्दीघाटी का युद्ध 1576 में अकबर और महाराणा प्रताप के बीच लड़ा गया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "अकबर के नवरत्नों में से एक प्रसिद्ध संगीतकार कौन था?",
@@ -327,7 +351,8 @@
       "correctIndex": 0,
       "explanation": "तानसेन अकबर के दरबार के प्रसिद्ध संगीतकार और नवरत्नों में से एक थे।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "अकबरनामा के लेखक कौन थे?",
@@ -340,7 +365,8 @@
       "correctIndex": 0,
       "explanation": "अकबरनामा अकबर के शासनकाल का इतिहास है, जिसे अबुल फजल ने लिखा था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "जहाँगीर ने किस विदेशी यात्री को अपने दरबार में आमंत्रित किया था?",
@@ -353,7 +379,8 @@
       "correctIndex": 0,
       "explanation": "सर थॉमस रो को जहाँगीर ने अपने दरबार में आमंत्रित किया था, जो एक अंग्रेजी राजदूत था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "शाहजहाँ ने ताजमहल का निर्माण कब शुरू किया था?",
@@ -366,7 +393,8 @@
       "correctIndex": 0,
       "explanation": "शाहजहाँ ने अपनी पत्नी मुमताज महल की याद में 1632 में ताजमहल का निर्माण शुरू किया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "औरंगजेब ने किस सिख गुरु को मारने का आदेश दिया था?",
@@ -379,7 +407,8 @@
       "correctIndex": 0,
       "explanation": "औरंगजेब ने 1675 में गुरु तेग बहादुर को मारने का आदेश दिया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "खालसा पंथ की स्थापना किसने की थी?",
@@ -392,7 +421,8 @@
       "correctIndex": 0,
       "explanation": "गुरु गोबिंद सिंह ने 1699 में खालसा पंथ की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "विजयनगर साम्राज्य की स्थापना कब हुई थी?",
@@ -405,7 +435,8 @@
       "correctIndex": 0,
       "explanation": "विजयनगर साम्राज्य की स्थापना 1336 में हरिहर और बुक्का द्वारा की गई थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "विजयनगर साम्राज्य की राजधानी कहाँ थी?",
@@ -418,7 +449,8 @@
       "correctIndex": 0,
       "explanation": "विजयनगर साम्राज्य की राजधानी हम्पी में थी, जो अब यूनेस्को विश्व धरोहर स्थल है।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "तलिकोटा का युद्ध कब लड़ा गया था?",
@@ -431,7 +463,8 @@
       "correctIndex": 0,
       "explanation": "तलिकोटा का युद्ध 1565 में विजयनगर और दक्कन सल्तनतों के बीच लड़ा गया, जिसमें विजयनगर की हार हुई।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "बहمانی साम्राज्य की स्थापना किसने की थी?",
@@ -444,7 +477,8 @@
       "correctIndex": 0,
       "explanation": "अलाउद्दीन हसन बहमन शाह ने 1347 में बहमनी साम्राज्य की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "महमूद गवान किसके दरबार में प्रमुख वजीर थे?",
@@ -457,7 +491,8 @@
       "correctIndex": 0,
       "explanation": "महमूद गवान बहमनी सल्तनत के प्रमुख वजीर और विद्वान थे।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "मराठा साम्राज्य का संस्थापक कौन था?",
@@ -470,7 +505,8 @@
       "correctIndex": 0,
       "explanation": "शिवाजी महाराज ने 1674 में मराठा साम्राज्य की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "शिवाजी महाराज का राज्याभिषेक कब हुआ था?",
@@ -483,7 +519,8 @@
       "correctIndex": 0,
       "explanation": "शिवाजी महाराज का राज्याभिषेक 1674 में रायगढ़ में हुआ था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "शिवाजी महाराज ने किस किले को अपनी राजधानी बनाया था?",
@@ -496,7 +533,8 @@
       "correctIndex": 0,
       "explanation": "शिवाजी महाराज ने रायगढ़ को अपनी राजधानी बनाया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "शिवाजी महाराज ने किस युद्ध में अफजल खान को हराया था?",
@@ -509,7 +547,8 @@
       "correctIndex": 0,
       "explanation": "शिवाजी महाराज ने 1659 में प्रतापगढ़ के युद्ध में अफजल खान को हराया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "पेशवा बाजीराव प्रथम ने दिल्ली पर कब आक्रमण किया था?",
@@ -522,7 +561,8 @@
       "correctIndex": 0,
       "explanation": "पेशवा बाजीराव प्रथम ने 1737 में दिल्ली पर आक्रमण किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "तीसरा पानीपत का युद्ध कब लड़ा गया था?",
@@ -535,7 +575,8 @@
       "correctIndex": 0,
       "explanation": "तीसरा पानीपत का युद्ध 1761 में मराठों और अहमद शाह अब्दाली के बीच लड़ा गया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "मैसूर का प्रथम युद्ध कब लड़ा गया था?",
@@ -548,7 +589,8 @@
       "correctIndex": 0,
       "explanation": "मैसूर का प्रथम युद्ध 1767-69 में हैदर अली और ब्रिटिश ईस्ट इंडिया कंपनी के बीच लड़ा गया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "टीपू सुल्तान की मृत्यु कब हुई थी?",
@@ -561,7 +603,8 @@
       "correctIndex": 0,
       "explanation": "टीपू सुल्तान की मृत्यु 1799 में चौथे मैसूर युद्ध में श्रीरंगपट्टनम में हुई थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "गुरु नानक का जन्म कब हुआ था?",
@@ -574,7 +617,8 @@
       "correctIndex": 0,
       "explanation": "गुरु नानक, सिख धर्म के संस्थापक, का जन्म 1469 में तलवंडी (वर्तमान ननकाना साहिब) में हुआ था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "सूफी संत शेख सलीम चिश्ती का संबंध किस मुगल सम्राट से था?",
@@ -587,7 +631,8 @@
       "correctIndex": 0,
       "explanation": "शेख सलीम चिश्ती अकबर के समय के प्रसिद्ध सूफी संत थे, जिनके सम्मान में फतेहपुर सीकरी में दरगाह बनाई गई।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भक्ति आंदोलन के प्रमुख संत कबीर का जन्म कब हुआ था?",
@@ -600,7 +645,8 @@
       "correctIndex": 0,
       "explanation": "कबीर का जन्म 1398 में वाराणसी में हुआ था, और वे भक्ति आंदोलन के प्रमुख संत थे।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "मलिक मोहम्मद जायसी ने किस रचना की रचना की थी?",
@@ -613,7 +659,8 @@
       "correctIndex": 0,
       "explanation": "मलिक मोहम्मद जायसी ने 'पद्मावत' की रचना की, जो रानी पद्मिनी की कहानी पर आधारित है।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "चोल वंश का अंतिम शासक कौन था?",
@@ -626,7 +673,8 @@
       "correctIndex": 0,
       "explanation": "राजेंद्र चोल तृतीय (1279) चोल वंश का अंतिम शासक था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "रामानुजाचार्य ने किस दर्शन की स्थापना की थी?",
@@ -639,7 +687,8 @@
       "correctIndex": 0,
       "explanation": "रामानुजाचार्य ने विशिष्टाद्वैत दर्शन की स्थापना की थी, जो भक्ति पर आधारित था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "माधवाचार्य ने किस दर्शन को प्रतिपादित किया था?",
@@ -652,7 +701,8 @@
       "correctIndex": 0,
       "explanation": "माधवाचार्य ने द्वैत दर्शन को प्रतिपादित किया, जो आत्मा और परमात्मा को अलग मानता है।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "चैतन्य महाप्रभु का संबंध किस भक्ति परंपरा से था?",
@@ -665,7 +715,8 @@
       "correctIndex": 0,
       "explanation": "चैतन्य महाप्रभु गौड़ीय वैष्णव परंपरा के प्रमुख संत थे, जिन्होंने कृष्ण भक्ति को बढ़ावा दिया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "गुजरात सल्तनत का संस्थापक कौन था?",
@@ -678,7 +729,8 @@
       "correctIndex": 0,
       "explanation": "जफर खान ने 1391 में गुजरात सल्तनत की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "महमूद बेगड़ा ने किस बंदरगाह पर कब्जा किया था?",
@@ -691,7 +743,8 @@
       "correctIndex": 0,
       "explanation": "महमूद बेगड़ा ने गुजरात सल्तनत के शासक के रूप में द्वारका पर कब्जा किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "जौनपुर सल्तनत की स्थापना किसने की थी?",
@@ -704,7 +757,8 @@
       "correctIndex": 0,
       "explanation": "मलिक सरवर ने 1394 में जौनपुर सल्तनत की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "मालवा सल्तनत का सबसे प्रसिद्ध शासक कौन था?",
@@ -717,7 +771,8 @@
       "correctIndex": 0,
       "explanation": "महमूद खिलजी मालवा सल्तनत का सबसे प्रसिद्ध शासक था, जिसने कला और संस्कृति को बढ़ावा दिया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "कश्मीर सल्तनत का संस्थापक कौन था?",
@@ -730,7 +785,8 @@
       "correctIndex": 0,
       "explanation": "शम्सुद्दीन शाहमीर ने 1339 में कश्मीर सल्तनत की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "जैनुल आबिदीन को किस नाम से जाना जाता था?",
@@ -743,7 +799,8 @@
       "correctIndex": 0,
       "explanation": "जैनुल आबिदीन को 'बुध शाह' के नाम से जाना जाता था, जो कश्मीर का उदार शासक था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "पाला वंश का संस्थापक कौन था?",
@@ -756,7 +813,8 @@
       "correctIndex": 0,
       "explanation": "गोपाल ने 8वीं शताब्दी में बंगाल में पाला वंश की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "राष्ट्रकूट वंश का सबसे प्रसिद्ध शासक कौन था?",
@@ -769,7 +827,8 @@
       "correctIndex": 0,
       "explanation": "कृष्ण प्रथम राष्ट्रकूट वंश का प्रसिद्ध शासक था, जिसने एलोरा में कैलाश मंदिर बनवाया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "एलोरा के कैलाश मंदिर का निर्माण किसने करवाया था?",
@@ -782,7 +841,8 @@
       "correctIndex": 0,
       "explanation": "एलोरा का कैलाश मंदिर राष्ट्रकूट शासक कृष्ण प्रथम ने 8वीं शताब्दी में बनवाया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "चालुक्य वंश का सबसे प्रसिद्ध शासक कौन था?",
@@ -795,7 +855,8 @@
       "correctIndex": 0,
       "explanation": "पुलकेशिन द्वितीय चालुक्य वंश का सबसे प्रसिद्ध शासक था, जिसने हर्षवर्धन को हराया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "हर्षवर्धन की जीवनी 'हर्षचरित' के लेखक कौन थे?",
@@ -808,7 +869,8 @@
       "correctIndex": 0,
       "explanation": "हर्षचरित हर्षवर्धन की जीवनी है, जिसे बाणभट्ट ने लिखा था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "पृथ्वीराज रासो के लेखक कौन थे?",
@@ -821,7 +883,8 @@
       "correctIndex": 0,
       "explanation": "पृथ्वीराज रासो, जो पृथ्वीराज चौहान की जीवनी है, चंदबरदाई द्वारा लिखी गई थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "कन्नौज का त्रिकोणीय युद्ध कब हुआ था?",
@@ -834,7 +897,8 @@
       "correctIndex": 0,
       "explanation": "कन्नौज का त्रिकोणीय युद्ध 8वीं शताब्दी में पाल, प्रतिहार और राष्ट्रकूट वंशों के बीच हुआ था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "प्रतिहार वंश का संस्थापक कौन था?",
@@ -847,7 +911,8 @@
       "correctIndex": 0,
       "explanation": "नागभट्ट प्रथम ने 8वीं शताब्दी में प्रतिहार वंश की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "महमूद गजनवी ने सोमनाथ मंदिर पर कब आक्रमण किया था?",
@@ -860,7 +925,8 @@
       "correctIndex": 0,
       "explanation": "महमूद गजनवी ने 1025 में गुजरात के सोमनाथ मंदिर पर आक्रमण किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "अल बरूनी ने किस ग्रंथ में भारत का वर्णन किया था?",
@@ -873,7 +939,8 @@
       "correctIndex": 0,
       "explanation": "अल बरूनी ने 'किताब-उल-हिंद' में भारत की संस्कृति और विज्ञान का वर्णन किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "चोल वंश का सबसे प्रसिद्ध शासक कौन था?",
@@ -886,7 +953,8 @@
       "correctIndex": 0,
       "explanation": "राजराज चोल (985-1014) चोल वंश का सबसे प्रसिद्ध शासक था, जिसने बृहदेश्वर मंदिर बनवाया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "बृहदेश्वर मंदिर का निर्माण किसने करवाया था?",
@@ -899,7 +967,8 @@
       "correctIndex": 0,
       "explanation": "बृहदेश्वर मंदिर तंजावुर में राजराज चोल द्वारा 11वीं शताब्दी में बनवाया गया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "राजेंद्र चोल ने किस क्षेत्र पर विजय प्राप्त की थी?",
@@ -912,7 +981,8 @@
       "correctIndex": 0,
       "explanation": "राजेंद्र चोल ने श्रीलंका पर विजय प्राप्त की थी और चोल साम्राज्य का विस्तार किया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "पांड्य वंश की राजधानी कहाँ थी?",
@@ -925,7 +995,8 @@
       "correctIndex": 0,
       "explanation": "पांड्य वंश की राजधानी मदुरै में थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "कृष्णदेव राय किस साम्राज्य के शासक थे?",
@@ -938,7 +1009,8 @@
       "correctIndex": 0,
       "explanation": "कृष्णदेव राय (1509-1529) विजयनगर साम्राज्य के सबसे प्रसिद्ध शासक थे।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "अमुक्तमाल्यद के लेखक कौन थे?",
@@ -951,7 +1023,8 @@
       "correctIndex": 0,
       "explanation": "अमुक्तमाल्यद एक तेलुगु काव्य है, जिसे कृष्णदेव राय ने लिखा था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "शंकराचार्य ने किस दर्शन की स्थापना की थी?",
@@ -964,7 +1037,8 @@
       "correctIndex": 0,
       "explanation": "शंकराचार्य ने 8वीं शताब्दी में अद्वैत वेदांत दर्शन की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "सूफी चिश्ती सिलसिला की स्थापना भारत में किसने की थी?",
@@ -977,7 +1051,8 @@
       "correctIndex": 0,
       "explanation": "मुईनुद्दीन चिश्ती ने 12वीं शताब्दी में अजमेर में चिश्ती सिलसिला की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "निजामुद्दीन औलिया का संबंध किस सूफी सिलसिला से था?",
@@ -990,7 +1065,8 @@
       "correctIndex": 0,
       "explanation": "निजामुद्दीन औलिया चिश्ती सिलसिला के प्रमुख सूफी संत थे।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "गुरु अर्जन देव ने किस ग्रंथ को संकलित किया था?",
@@ -1003,7 +1079,8 @@
       "correctIndex": 0,
       "explanation": "गुरु अर्जन देव ने 1604 में आदिग्रंथ (गुरु ग्रंथ साहिब) को संकलित किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "दारा शिकोह ने किस ग्रंथ का अनुवाद किया था?",
@@ -1016,7 +1093,8 @@
       "correctIndex": 0,
       "explanation": "दारा शिकोह ने उपनिषदों का फारसी में अनुवाद किया था, जिसे 'सिर्र-ए-अकबर' कहा जाता है।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "तुलसीदास ने रामचरितमानस की रचना कब की थी?",
@@ -1029,7 +1107,8 @@
       "correctIndex": 0,
       "explanation": "तुलसीदास ने 16वीं शताब्दी में रामचरितमानस की रचना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "मीराबाई का संबंध किस भक्ति परंपरा से था?",
@@ -1042,7 +1121,8 @@
       "correctIndex": 0,
       "explanation": "मीराबाई कृष्ण भक्ति परंपरा की प्रमुख संत थीं।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "सूरदास ने किसके भजनों की रचना की थी?",
@@ -1055,7 +1135,8 @@
       "correctIndex": 0,
       "explanation": "सूरदास ने कृष्ण भक्ति पर आधारित भजनों की रचना की थी, जैसे सूरसागर।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "मालिक मोहम्मद जायसी का संबंध किस सल्तनत से था?",
@@ -1068,7 +1149,8 @@
       "correctIndex": 0,
       "explanation": "मलिक मोहम्मद जायसी जौनपुर सल्तनत के कवि थे, जिन्होंने 'पद्मावत' लिखी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "ख्वाजा मुईनुद्दीन चिश्ती की मृत्यु कब हुई थी?",
@@ -1081,7 +1163,8 @@
       "correctIndex": 0,
       "explanation": "ख्वाजा मुईनुद्दीन चिश्ती की मृत्यु 1236 में अजमेर में हुई थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "अकबर ने जजिया कर कब समाप्त किया था?",
@@ -1094,7 +1177,8 @@
       "correctIndex": 0,
       "explanation": "अकबर ने 1564 में गैर-मुस्लिमों पर लगने वाला जजिया कर समाप्त किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "औरंगजेब ने जजिया कर कब पुनः लागू किया था?",
@@ -1107,7 +1191,8 @@
       "correctIndex": 0,
       "explanation": "औरंगजेब ने 1679 में जजिया कर को पुनः लागू किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "शिवाजी महाराज ने किस संधि पर हस्ताक्षर किए थे?",
@@ -1120,7 +1205,8 @@
       "correctIndex": 0,
       "explanation": "शिवाजी महाराज ने 1665 में मुगलों के साथ पुरंदर की संधि पर हस्ताक्षर किए थे।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "मराठों की चौथ कर प्रणाली की शुरुआत किसने की थी?",
@@ -1133,7 +1219,8 @@
       "correctIndex": 0,
       "explanation": "शिवाजी महाराज ने चौथ कर प्रणाली की शुरुआत की थी, जो पड़ोसी क्षेत्रों से कर वसूली थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "बैरम खान ने अकबर की ओर से किस युद्ध में जीत हासिल की थी?",
@@ -1146,7 +1233,8 @@
       "correctIndex": 0,
       "explanation": "बैरम खान ने 1556 में द्वितीय पानीपत का युद्ध जीता, जिसमें हेमू को हराया गया।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "शाहजहाँ ने लाल किला कब बनवाया था?",
@@ -1159,7 +1247,8 @@
       "correctIndex": 0,
       "explanation": "शाहजहाँ ने 1639 में दिल्ली में लाल किला बनवाना शुरू किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "गुरु गोबिंद सिंह ने किस युद्ध में हिस्सा लिया था?",
@@ -1172,7 +1261,8 @@
       "correctIndex": 0,
       "explanation": "गुरु गोबिंद सिंह ने 1704 में चमकौर के युद्ध में हिस्सा लिया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "मराठा साम्राज्य में पेशवाओं की प्रणाली की शुरुआत किसने की थी?",
@@ -1185,7 +1275,8 @@
       "correctIndex": 0,
       "explanation": "बालाजी विश्वनाथ ने 1713 में पेशवाओं की प्रणाली की शुरुआत की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "अहमद शाह अब्दाली ने भारत पर पहला आक्रमण कब किया था?",
@@ -1198,7 +1289,8 @@
       "correctIndex": 0,
       "explanation": "अहमद शाह अब्दाली ने 1748 में भारत पर पहला आक्रमण किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "शेर शाह सूरी ने किस प्रशासनिक प्रणाली को लागू किया था?",
@@ -1211,7 +1303,8 @@
       "correctIndex": 0,
       "explanation": "शेर शाह सूरी ने रुपया नामक मुद्रा को प्रचलित किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "अकबर ने मनसबदारी प्रणाली कब लागू की थी?",
@@ -1224,7 +1317,8 @@
       "correctIndex": 0,
       "explanation": "अकबर ने 1575 में मनसबदारी प्रणाली लागू की थी, जो सैन्य और प्रशासनिक व्यवस्था थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "जहाँगीर ने किस चित्रकला शैली को बढ़ावा दिया था?",
@@ -1237,7 +1331,8 @@
       "correctIndex": 0,
       "explanation": "जहाँगीर ने मुगल चित्रकला को बढ़ावा दिया, जो अपने यथार्थवाद के लिए प्रसिद्ध थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "शाहजहाँ के शासनकाल में किस वास्तुकला शैली का विकास हुआ?",
@@ -1250,7 +1345,8 @@
       "correctIndex": 0,
       "explanation": "शाहजहाँ के शासनकाल में इंडो-इस्लामिक वास्तुकला का विकास हुआ, जैसे ताजमहल।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "औरंगजेब ने किस मराठा नेता को कैद किया था?",
@@ -1263,7 +1359,8 @@
       "correctIndex": 0,
       "explanation": "औरंगजेब ने संबाजी को 1689 में कैद किया और बाद में उनकी हत्या कर दी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "विजयनगर साम्राज्य में अष्टदिग्गज कवियों का संबंध किससे था?",
@@ -1276,7 +1373,8 @@
       "correctIndex": 0,
       "explanation": "कृष्णदेव राय के दरबार में अष्टदिग्गज कवियों का समूह था, जो तेलुगु साहित्य के लिए प्रसिद्ध था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "शिवाजी महाराज ने किस बंदरगाह पर कब्जा किया था?",
@@ -1289,7 +1387,8 @@
       "correctIndex": 0,
       "explanation": "शिवाजी महाराज ने 1664 में सूरत पर कब्जा किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "हैदर अली ने मैसूर की सत्ता कब संभाली थी?",
@@ -1302,7 +1401,8 @@
       "correctIndex": 0,
       "explanation": "हैदर अली ने 1761 में मैसूर की सत्ता संभाली थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "टीपू सुल्तान ने किस हथियार का उपयोग किया था?",
@@ -1315,7 +1415,8 @@
       "correctIndex": 0,
       "explanation": "टीपू सुल्तान ने युद्ध में रॉकेट हथियारों का उपयोग किया था, जो उस समय उन्नत थे।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "मराठा साम्राज्य में सरदेशमुखी कर की शुरुआत किसने की थी?",
@@ -1328,7 +1429,8 @@
       "correctIndex": 0,
       "explanation": "शिवाजी महाराज ने सरदेशमुखी कर की शुरुआत की थी, जो मराठा प्रशासन का हिस्सा था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "अहमदनगर सल्तनत की स्थापना किसने की थी?",
@@ -1341,7 +1443,8 @@
       "correctIndex": 0,
       "explanation": "मलिक अहमद ने 1490 में अहमदनगर सल्तनत की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "बीजापुर सल्तनत का संस्थापक कौन था?",
@@ -1354,7 +1457,8 @@
       "correctIndex": 0,
       "explanation": "यूसुफ आदिल शाह ने 1489 में बीजापुर सल्तनत की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "गोलकुंडा सल्तनत का संस्थापक कौन था?",
@@ -1367,7 +1471,8 @@
       "correctIndex": 0,
       "explanation": "कुली कुतुब शाह ने 1518 में गोलकुंडा सल्तनत की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "मुहम्मद कुली कुतुब शाह ने किस शहर की स्थापना की थी?",
@@ -1380,7 +1485,8 @@
       "correctIndex": 0,
       "explanation": "मुहम्मद कुली कुतुब शाह ने 1591 में हैदराबाद शहर की स्थापना की थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "चाँद बीबी किस सल्तनत की रानी थीं?",
@@ -1393,7 +1499,8 @@
       "correctIndex": 0,
       "explanation": "चाँद बीबी अहमदनगर सल्तनत की रानी थीं और उन्होंने मुगलों के खिलाफ युद्ध लड़ा था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "कृष्णदेव राय ने किस युद्ध में उड़ीसा के गजपति शासक को हराया था?",
@@ -1406,7 +1513,8 @@
       "correctIndex": 0,
       "explanation": "कृष्णदेव राय ने कटक के युद्ध में उड़ीसा के गजपति शासक को हराया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "महमूद गजनवी ने भारत पर कुल कितने आक्रमण किए थे?",
@@ -1419,7 +1527,8 @@
       "correctIndex": 0,
       "explanation": "महमूद गजनवी ने 1001 से 1027 के बीच भारत पर 17 आक्रमण किए थे।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "मुहम्मद गोरी ने किस भारतीय शासक को हराया था?",
@@ -1432,7 +1541,8 @@
       "correctIndex": 0,
       "explanation": "मुहम्मद गोरी ने 1192 में द्वितीय तराइन के युद्ध में पृथ्वीराज चौहान को हराया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "इल्तुतमिश ने किस मंगोल आक्रमण को रोका था?",
@@ -1445,7 +1555,8 @@
       "correctIndex": 0,
       "explanation": "इल्तुतमिश ने 1221 में चंगेज खान के मंगोल आक्रमण को रोका था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "अलाउद्दीन खिलजी ने चित्तौड़ पर कब आक्रमण किया था?",
@@ -1458,7 +1569,8 @@
       "correctIndex": 0,
       "explanation": "अलाउद्दीन खिलजी ने 1303 में चित्तौड़ पर आक्रमण किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "फिरोज शाह तुगलक ने किस शहर की स्थापना की थी?",
@@ -1471,7 +1583,8 @@
       "correctIndex": 0,
       "explanation": "फिरोज शाह तुगलक ने फिरोजाबाद शहर की स्थापना की थी, इसके अलावा हिसार और जौनपुर भी बनवाए।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "सिकंदर लोदी ने किस शहर को अपनी राजधानी बनाया था?",
@@ -1484,7 +1597,8 @@
       "correctIndex": 0,
       "explanation": "सिकंदर लोदी ने आगरा को अपनी राजधानी बनाया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "बाबर ने भारत में किस बंदूक का उपयोग किया था?",
@@ -1497,7 +1611,8 @@
       "correctIndex": 0,
       "explanation": "बाबर ने प्रथम पानीपत के युद्ध (1526) में तोपों का उपयोग किया था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "हुमायूँ की मृत्यु कब हुई थी?",
@@ -1510,7 +1625,8 @@
       "correctIndex": 0,
       "explanation": "हुमायूँ की मृत्यु 1556 में दिल्ली में सीढ़ियों से गिरने के कारण हुई थी।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में ईस्ट इंडिया कंपनी की स्थापना कब हुई थी?",
@@ -1523,7 +1639,8 @@
       "correctIndex": 0,
       "explanation": "ईस्ट इंडिया कंपनी की स्थापना 1600 में इंग्लैंड की रानी एलिजाबेथ प्रथम द्वारा दी गई चार्टर के तहत हुई थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "प्लासी का युद्ध कब लड़ा गया था?",
@@ -1536,7 +1653,8 @@
       "correctIndex": 0,
       "explanation": "प्लासी का युद्ध 1757 में लड़ा गया, जिसमें रॉबर्ट क्लाइव ने सिराजुद्दौला को हराकर बंगाल में ब्रिटिश प्रभुत्व स्थापित किया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "बक्सर का युद्ध किस वर्ष हुआ था?",
@@ -1549,7 +1667,8 @@
       "correctIndex": 0,
       "explanation": "बक्सर का युद्ध 1764 में लड़ा गया, जिसमें ब्रिटिश ईस्ट इंडिया कंपनी ने मुगल सम्राट और अवध के नवाब को हराया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में प्रथम गवर्नर-जनरल कौन थे?",
@@ -1562,7 +1681,8 @@
       "correctIndex": 0,
       "explanation": "वारेन हेस्टिंग्स 1773 से 1785 तक भारत के प्रथम गवर्नर-जनरल थे।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "सती प्रथा को समाप्त करने वाला कानून कब पारित हुआ?",
@@ -1575,7 +1695,8 @@
       "correctIndex": 0,
       "explanation": "लॉर्ड विलियम बेंटिक ने 1829 में सती प्रथा निषेध अधिनियम पारित किया, जिसे राजा राममोहन राय ने समर्थन दिया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारतीय राष्ट्रीय कांग्रेस की स्थापना कब हुई थी?",
@@ -1588,7 +1709,8 @@
       "correctIndex": 0,
       "explanation": "भारतीय राष्ट्रीय कांग्रेस की स्थापना 1885 में ए.ओ. ह्यूम द्वारा मुंबई में की गई थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "स्वदेशी आंदोलन कब शुरू हुआ था?",
@@ -1601,7 +1723,8 @@
       "correctIndex": 0,
       "explanation": "स्वदेशी आंदोलन 1905 में बंगाल विभाजन के विरोध में शुरू हुआ, जिसने भारतीय वस्तुओं के उपयोग को बढ़ावा दिया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "मुस्लिम लीग की स्थापना कब और कहाँ हुई थी?",
@@ -1614,7 +1737,8 @@
       "correctIndex": 0,
       "explanation": "मुस्लिम लीग की स्थापना 1906 में ढाका में नवाब सलीमुल्लाह और आगा खान के नेतृत्व में हुई थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "मॉर्ले-मिंटो सुधार कब लागू हुए थे?",
@@ -1627,7 +1751,8 @@
       "correctIndex": 0,
       "explanation": "मॉर्ले-मिंटो सुधार 1909 में लागू हुए, जिनमें मुसलमानों के लिए अलग निर्वाचन क्षेत्र की व्यवस्था की गई।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "लखनऊ समझौता कब हुआ था?",
@@ -1640,7 +1765,8 @@
       "correctIndex": 0,
       "explanation": "लखनऊ समझौता 1916 में कांग्रेस और मुस्लिम लीग के बीच हुआ, जिसमें संयुक्त स्वशासन की माँग की गई।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "जलियाँवाला बाग हत्याकांड कब हुआ था?",
@@ -1653,7 +1779,8 @@
       "correctIndex": 0,
       "explanation": "जलियाँवाला बाग हत्याकांड 13 अप्रैल 1919 को अमृतसर में जनरल डायर के आदेश पर हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "रॉलेट एक्ट कब पारित हुआ था?",
@@ -1666,7 +1793,8 @@
       "correctIndex": 0,
       "explanation": "रॉलेट एक्ट 1919 में पारित हुआ, जिसके खिलाफ व्यापक विरोध हुआ और यह जलियाँवाला बाग हत्याकांड का कारण बना।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "असहयोग आंदोलन कब शुरू हुआ था?",
@@ -1679,7 +1807,8 @@
       "correctIndex": 0,
       "explanation": "असहयोग आंदोलन 1920 में महात्मा गांधी के नेतृत्व में शुरू हुआ, जो ब्रिटिश शासन के खिलाफ था।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "चौरी-चौरा कांड के कारण कौन सा आंदोलन स्थगित हुआ?",
@@ -1692,7 +1821,8 @@
       "correctIndex": 0,
       "explanation": "चौरी-चौरा कांड (1922) के कारण महात्मा गांधी ने असहयोग आंदोलन स्थगित कर दिया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "स्वराज पार्टी की स्थापना कब हुई थी?",
@@ -1705,7 +1835,8 @@
       "correctIndex": 0,
       "explanation": "स्वराज पार्टी की स्थापना 1923 में चितरंजन दास और मोतीलाल नेहरू द्वारा की गई थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "साइमन कमीशन का भारत आगमन कब हुआ था?",
@@ -1718,7 +1849,8 @@
       "correctIndex": 0,
       "explanation": "साइमन कमीशन 1928 में भारत आया, जिसका पूरे देश में विरोध हुआ क्योंकि इसमें कोई भारतीय सदस्य नहीं था।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "नेहरू रिपोर्ट कब प्रस्तुत की गई थी?",
@@ -1731,7 +1863,8 @@
       "correctIndex": 0,
       "explanation": "नेहरू रिपोर्ट 1928 में मोतीलाल नेहरू की अध्यक्षता में प्रस्तुत की गई, जिसमें स्वशासन की माँग थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "सविनय अवज्ञा आंदोलन कब शुरू हुआ था?",
@@ -1744,7 +1877,8 @@
       "correctIndex": 0,
       "explanation": "सविनय अवज्ञा आंदोलन 1930 में महात्मा गांधी के नमक सत्याग्रह के साथ शुरू हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "दांडी नमक सत्याग्रह कब शुरू हुआ था?",
@@ -1757,7 +1891,8 @@
       "correctIndex": 0,
       "explanation": "दांडी नमक सत्याग्रह 12 मार्च 1930 को महात्मा गांधी द्वारा शुरू हुआ, जो सविनय अवज्ञा आंदोलन का हिस्सा था।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "प्रथम गोलमेज सम्मेलन कब आयोजित हुआ था?",
@@ -1770,7 +1905,8 @@
       "correctIndex": 0,
       "explanation": "प्रथम गोलमेज सम्मेलन 1930 में लंदन में आयोजित हुआ, जिसमें कांग्रेस ने भाग नहीं लिया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "गांधी-इरविन समझौता कब हुआ था?",
@@ -1783,7 +1919,8 @@
       "correctIndex": 0,
       "explanation": "गांधी-इरविन समझौता 1931 में हुआ, जिसके तहत सविनय अवज्ञा आंदोलन स्थगित किया गया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत सरकार अधिनियम कब पारित हुआ था?",
@@ -1796,7 +1933,8 @@
       "correctIndex": 0,
       "explanation": "भारत सरकार अधिनियम 1935 में पारित हुआ, जिसने प्रांतीय स्वायत्तता की व्यवस्था की।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत छोड़ो आंदोलन कब शुरू हुआ था?",
@@ -1809,7 +1947,8 @@
       "correctIndex": 0,
       "explanation": "भारत छोड़ो आंदोलन 8 अगस्त 1942 को महात्मा गांधी के नेतृत्व में शुरू हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "क्रिप्स मिशन भारत कब आया था?",
@@ -1822,7 +1961,8 @@
       "correctIndex": 0,
       "explanation": "क्रिप्स मिशन 1942 में भारत आया, लेकिन इसकी स्वशासन की योजना को कांग्रेस और मुस्लिम लीग ने अस्वीकार कर दिया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "कैबिनेट मिशन कब भारत आया था?",
@@ -1835,7 +1975,8 @@
       "correctIndex": 0,
       "explanation": "कैबिनेट मिशन 1946 में भारत आया, जिसने संविधान सभा और अंतरिम सरकार के गठन का प्रस्ताव रखा।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत की स्वतंत्रता कब प्राप्त हुई थी?",
@@ -1848,7 +1989,8 @@
       "correctIndex": 0,
       "explanation": "भारत को 15 अगस्त 1947 को ब्रिटिश शासन से स्वतंत्रता प्राप्त हुई।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "माउंटबेटन योजना कब घोषित की गई थी?",
@@ -1861,7 +2003,8 @@
       "correctIndex": 0,
       "explanation": "माउंटबेटन योजना 3 जून 1947 को घोषित की गई, जिसने भारत-पाकिस्तान विभाजन का आधार तैयार किया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत का प्रथम प्रधानमंत्री कौन था?",
@@ -1874,7 +2017,8 @@
       "correctIndex": 0,
       "explanation": "जवाहरलाल नेहरू स्वतंत्र भारत के प्रथम प्रधानमंत्री थे, जिन्होंने 1947 से 1964 तक सेवा की।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "भारत का संविधान कब लागू हुआ था?",
@@ -1887,7 +2031,8 @@
       "correctIndex": 0,
       "explanation": "भारत का संविधान 26 जनवरी 1950 को लागू हुआ, जिसे गणतंत्र दिवस के रूप में मनाया जाता है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "प्रथम पंचवर्षीय योजना कब शुरू हुई थी?",
@@ -1900,7 +2045,8 @@
       "correctIndex": 0,
       "explanation": "प्रथम पंचवर्षीय योजना 1951 में शुरू हुई, जिसका ध्यान कृषि और आधारभूत संरचना पर था।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत-चीन युद्ध कब हुआ था?",
@@ -1913,7 +2059,8 @@
       "correctIndex": 0,
       "explanation": "भारत-चीन युद्ध 1962 में लड़ा गया, जिसमें सीमा विवाद मुख्य कारण था।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत-पाकिस्तान युद्ध, जिसके परिणामस्वरूप बांग्लादेश बना, कब हुआ?",
@@ -1926,7 +2073,8 @@
       "correctIndex": 0,
       "explanation": "1971 के भारत-पाकिस्तान युद्ध के परिणामस्वरूप बांग्लादेश एक स्वतंत्र देश बना।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "आपातकाल की घोषणा भारत में कब की गई थी?",
@@ -1939,7 +2087,8 @@
       "correctIndex": 0,
       "explanation": "आपातकाल की घोषणा 25 जून 1975 को इंदिरा गांधी के नेतृत्व में की गई थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "ऑपरेशन ब्लू स्टार कब हुआ था?",
@@ -1952,7 +2101,8 @@
       "correctIndex": 0,
       "explanation": "ऑपरेशन ब्लू स्टार 1984 में स्वर्ण मंदिर से आतंकवादियों को हटाने के लिए किया गया था।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में आर्थिक उदारीकरण की शुरुआत कब हुई थी?",
@@ -1965,7 +2115,8 @@
       "correctIndex": 0,
       "explanation": "आर्थिक उदारीकरण 1991 में पी.वी. नरसिम्हा राव सरकार के तहत शुरू हुआ, जिसमें निजीकरण और वैश्वीकरण को बढ़ावा दिया गया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "कारगिल युद्ध कब लड़ा गया था?",
@@ -1978,7 +2129,8 @@
       "correctIndex": 0,
       "explanation": "कारगिल युद्ध 1999 में भारत और पाकिस्तान के बीच लड़ा गया, जिसमें भारत ने विजय प्राप्त की।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "भारत ने परमाणु परीक्षण 'पोखरण-II' कब किया था?",
@@ -1991,7 +2143,8 @@
       "correctIndex": 0,
       "explanation": "पोखरण-II परमाणु परीक्षण मई 1998 में अटल बिहारी वाजपेयी सरकार के तहत किया गया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में सूचना का अधिकार (RTI) अधिनियम कब लागू हुआ?",
@@ -2004,7 +2157,8 @@
       "correctIndex": 0,
       "explanation": "सूचना का अधिकार अधिनियम 2005 में लागू हुआ, जिसने नागरिकों को सरकारी जानकारी प्राप्त करने का अधिकार दिया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में आधार कार्ड योजना की शुरुआत कब हुई थी?",
@@ -2017,7 +2171,8 @@
       "correctIndex": 0,
       "explanation": "आधार कार्ड योजना की शुरुआत 2009 में यूपीए सरकार के तहत हुई थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में जीएसटी (वस्तु एवं सेवा कर) कब लागू हुआ था?",
@@ -2030,7 +2185,8 @@
       "correctIndex": 0,
       "explanation": "जीएसटी 1 जुलाई 2017 को लागू हुआ, जिसने भारत में कर प्रणाली को एकीकृत किया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में अनुच्छेद 370 को कब निरस्त किया गया था?",
@@ -2043,7 +2199,8 @@
       "correctIndex": 0,
       "explanation": "अनुच्छेद 370 को 5 अगस्त 2019 को निरस्त किया गया, जिसके तहत जम्मू-कश्मीर का विशेष दर्जा समाप्त हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "चंद्रयान-2 मिशन कब लॉन्च किया गया था?",
@@ -2056,7 +2213,8 @@
       "correctIndex": 0,
       "explanation": "चंद्रयान-2 मिशन 22 जुलाई 2019 को लॉन्च किया गया, जो भारत का दूसरा चंद्र मिशन था।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "चंद्रयान-3 मिशन कब सफलतापूर्वक चंद्रमा पर उतरा?",
@@ -2069,7 +2227,8 @@
       "correctIndex": 0,
       "explanation": "चंद्रयान-3 मिशन 23 अगस्त 2023 को चंद्रमा के दक्षिणी ध्रुव पर सफलतापूर्वक उतरा।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार महिला आरक्षण विधेयक कब पारित हुआ?",
@@ -2082,7 +2241,8 @@
       "correctIndex": 0,
       "explanation": "महिला आरक्षण विधेयक (नारी शक्ति वंदन अधिनियम) 2023 में संसद में पारित हुआ, जो विधानसभाओं में 33% सीटें महिलाओं के लिए आरक्षित करता है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहला रेलवे बजट कब प्रस्तुत किया गया था?",
@@ -2095,7 +2255,8 @@
       "correctIndex": 0,
       "explanation": "पहला रेलवे बजट 1924 में ब्रिटिश शासन के तहत प्रस्तुत किया गया था।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में प्रथम औद्योगिक नीति कब घोषित की गई थी?",
@@ -2108,7 +2269,8 @@
       "correctIndex": 0,
       "explanation": "प्रथम औद्योगिक नीति 1948 में स्वतंत्र भारत में घोषित की गई थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में ग्रीन रिवॉल्यूशन की शुरुआत कब हुई थी?",
@@ -2121,7 +2283,8 @@
       "correctIndex": 0,
       "explanation": "ग्रीन रिवॉल्यूशन 1960 के दशक में शुरू हुआ, जिसने कृषि उत्पादन में वृद्धि की।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहला परमाणु परीक्षण कब किया गया था?",
@@ -2134,7 +2297,8 @@
       "correctIndex": 0,
       "explanation": "पहला परमाणु परीक्षण, जिसे 'स्माइलिंग बुद्धा' कहा गया, 1974 में पोखरण में किया गया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में बैंकों का राष्ट्रीयकरण कब हुआ था?",
@@ -2147,7 +2311,8 @@
       "correctIndex": 0,
       "explanation": "14 प्रमुख बैंकों का राष्ट्रीयकरण 1969 में इंदिरा गांधी सरकार द्वारा किया गया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में प्रथम अंतरिक्ष यान 'आर्यभट्ट' कब लॉन्च किया गया था?",
@@ -2160,7 +2325,8 @@
       "correctIndex": 0,
       "explanation": "प्रथम भारतीय अंतरिक्ष यान 'आर्यभट्ट' 19 अप्रैल 1975 को लॉन्च किया गया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में मंडल आयोग की सिफारिशें कब लागू की गई थीं?",
@@ -2173,7 +2339,8 @@
       "correctIndex": 0,
       "explanation": "मंडल आयोग की सिफारिशें 1990 में वी.पी. सिंह सरकार द्वारा लागू की गईं, जिसने OBC के लिए आरक्षण प्रदान किया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार डिजिटल इंडिया अभियान कब शुरू हुआ था?",
@@ -2186,7 +2353,8 @@
       "correctIndex": 0,
       "explanation": "डिजिटल इंडिया अभियान 1 जुलाई 2015 को नरेंद्र मोदी सरकार द्वारा शुरू किया गया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में स्वच्छ भारत अभियान कब शुरू हुआ था?",
@@ -2199,7 +2367,8 @@
       "correctIndex": 0,
       "explanation": "स्वच्छ भारत अभियान 2 अक्टूबर 2014 को नरेंद्र मोदी द्वारा शुरू किया गया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में मंगलयान मिशन कब लॉन्च किया गया था?",
@@ -2212,7 +2381,8 @@
       "correctIndex": 0,
       "explanation": "मंगलयान मिशन 5 नवंबर 2013 को लॉन्च किया गया, जो भारत का पहला मंगल मिशन था।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहला सामान्य चुनाव कब हुआ था?",
@@ -2225,7 +2395,8 @@
       "correctIndex": 0,
       "explanation": "पहला सामान्य चुनाव 1951-52 में हुआ, जिसमें जवाहरलाल नेहरू की कांग्रेस ने जीत हासिल की।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में भाषायी आधार पर राज्यों का पुनर्गठन कब हुआ था?",
@@ -2238,7 +2409,8 @@
       "correctIndex": 0,
       "explanation": "राज्यों का पुनर्गठन 1956 में राज्य पुनर्गठन अधिनियम के तहत भाषायी आधार पर किया गया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में राष्ट्रीय मानवाधिकार आयोग की स्थापना कब हुई थी?",
@@ -2251,7 +2423,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय मानवाधिकार आयोग की स्थापना 1993 में मानवाधिकार संरक्षण अधिनियम के तहत हुई।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में नरेगा (MGNREGA) योजना कब शुरू हुई थी?",
@@ -2264,7 +2437,8 @@
       "correctIndex": 0,
       "explanation": "नरेगा योजना 2005 में शुरू हुई, जो ग्रामीण क्षेत्रों में रोजगार प्रदान करती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार लोकपाल और लोकायुक्त अधिनियम कब पारित हुआ?",
@@ -2277,7 +2451,8 @@
       "correctIndex": 0,
       "explanation": "लोकपाल और लोकायुक्त अधिनियम 2013 में पारित हुआ, जो भ्रष्टाचार विरोधी संस्था की स्थापना करता है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में आयुष्मान भारत योजना कब शुरू हुई थी?",
@@ -2290,7 +2465,8 @@
       "correctIndex": 0,
       "explanation": "आयुष्मान भारत योजना 2018 में शुरू हुई, जो गरीबों को स्वास्थ्य बीमा प्रदान करती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार मतदाता सूची में ट्रांसजेंडर को शामिल करने की शुरुआत कब हुई?",
@@ -2303,7 +2479,8 @@
       "correctIndex": 0,
       "explanation": "ट्रांसजेंडर को मतदाता सूची में 'अन्य' श्रेणी के तहत 2014 में शामिल किया गया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय शिक्षा नीति कब लागू की गई थी?",
@@ -2316,7 +2493,8 @@
       "correctIndex": 0,
       "explanation": "नई राष्ट्रीय शिक्षा नीति 2020 में लागू की गई, जो शिक्षा प्रणाली में सुधार लाती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहला राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA) कब गठित हुआ?",
@@ -2329,7 +2507,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण 2005 में आपदा प्रबंधन अधिनियम के तहत गठित हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार मेट्रो रेल सेवा कब शुरू हुई थी?",
@@ -2342,7 +2521,8 @@
       "correctIndex": 0,
       "explanation": "पहली मेट्रो रेल सेवा 1984 में कोलकाता में शुरू हुई थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार मोबाइल फोन सेवा कब शुरू हुई थी?",
@@ -2355,7 +2535,8 @@
       "correctIndex": 0,
       "explanation": "मोबाइल फोन सेवा 1995 में भारत में शुरू हुई थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार इंटरनेट सेवा कब शुरू हुई थी?",
@@ -2368,7 +2549,8 @@
       "correctIndex": 0,
       "explanation": "इंटरनेट सेवा 15 अगस्त 1995 को विद्यासागर नेटवर्क (VSNL) द्वारा शुरू की गई थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार महिला को सर्वोच्च न्यायालय का मुख्य न्यायाधीश कब नियुक्त किया गया?",
@@ -2381,7 +2563,8 @@
       "correctIndex": 0,
       "explanation": "2024 में जस्टिस बी.वी. नागरत्ना को भारत की पहली महिला मुख्य न्यायाधीश नियुक्त किया गया।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय सुरक्षा गार्ड (NSG) की स्थापना कब हुई?",
@@ -2394,7 +2577,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय सुरक्षा गार्ड (NSG) की स्थापना 1984 में आतंकवाद से निपटने के लिए हुई थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय हरित अधिकरण (NGT) कब गठित हुआ?",
@@ -2407,7 +2591,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय हरित अधिकरण 2010 में पर्यावरण संरक्षण के लिए गठित हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय जांच एजेंसी (NIA) कब गठित हुई?",
@@ -2420,7 +2605,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय जांच एजेंसी 2008 में मुंबई हमलों के बाद आतंकवाद से निपटने के लिए गठित हुई।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय गंगा नदी बेसिन प्राधिकरण कब गठित हुआ?",
@@ -2433,7 +2619,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय गंगा नदी बेसिन प्राधिकरण 2009 में गंगा नदी की सफाई और संरक्षण के लिए गठित हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय आपदा प्रतिक्रिया बल (NDRF) कब गठित हुआ?",
@@ -2446,7 +2633,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय आपदा प्रतिक्रिया बल 2006 में आपदा प्रबंधन के लिए गठित हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय कौशल विकास निगम (NSDC) कब गठित हुआ?",
@@ -2459,7 +2647,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय कौशल विकास निगम 2008 में युवाओं को कौशल प्रशिक्षण देने के लिए गठित हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय सौर मिशन कब शुरू हुआ था?",
@@ -2472,7 +2661,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय सौर मिशन 2010 में नवीकरणीय ऊर्जा को बढ़ावा देने के लिए शुरू हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय खाद्य सुरक्षा अधिनियम कब लागू हुआ?",
@@ -2485,7 +2675,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय खाद्य सुरक्षा अधिनियम 2013 में लागू हुआ, जो गरीबों को सस्ता अनाज प्रदान करता है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय ग्रामीण स्वास्थ्य मिशन कब शुरू हुआ?",
@@ -2498,7 +2689,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय ग्रामीण स्वास्थ्य मिशन 2005 में ग्रामीण स्वास्थ्य सेवाओं को बेहतर करने के लिए शुरू हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय जनसंख्या रजिस्टर (NPR) कब शुरू हुआ?",
@@ -2511,7 +2703,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय जनसंख्या रजिस्टर 2010 में नागरिकों का डेटाबेस तैयार करने के लिए शुरू हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय मतदाता दिवस कब मनाया गया?",
@@ -2524,7 +2717,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय मतदाता दिवस 25 जनवरी 2011 को पहली बार मनाया गया, जो मतदाता जागरूकता को बढ़ावा देता है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय खेल नीति कब लागू की गई?",
@@ -2537,7 +2731,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय खेल नीति 2001 में लागू की गई, जो खेलों को बढ़ावा देने के लिए थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय पर्यटन नीति कब लागू की गई?",
@@ -2550,7 +2745,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय पर्यटन नीति 2002 में लागू की गई, जो पर्यटन को बढ़ावा देने के लिए थी।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय जैव प्रौद्योगिकी नीति कब लागू की गई?",
@@ -2563,7 +2759,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय जैव प्रौद्योगिकी नीति 2007 में लागू की गई, जो जैव प्रौद्योगिकी को बढ़ावा देती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय पेंशन प्रणाली (NPS) कब शुरू हुई?",
@@ -2576,7 +2773,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय पेंशन प्रणाली 2004 में शुरू हुई, जो सरकारी कर्मचारियों के लिए पेंशन योजना है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम कब पारित हुआ?",
@@ -2589,7 +2787,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम 2005 में पारित हुआ, जो MGNREGA के रूप में जाना जाता है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय आपदा प्रबंधन नीति कब लागू की गई?",
@@ -2602,7 +2801,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय आपदा प्रबंधन नीति 2009 में लागू की गई, जो आपदा प्रबंधन को मजबूत करती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय हरित ऊर्जा मिशन कब शुरू हुआ?",
@@ -2615,7 +2815,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय हरित ऊर्जा मिशन 2010 में शुरू हुआ, जो नवीकरणीय ऊर्जा को बढ़ावा देता है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय जल नीति कब लागू की गई?",
@@ -2628,7 +2829,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय जल नीति 2012 में लागू की गई, जो जल संसाधनों के प्रबंधन को बढ़ावा देती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय युवा नीति कब लागू की गई?",
@@ -2641,7 +2843,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय युवा नीति 2014 में लागू की गई, जो युवाओं के विकास को बढ़ावा देती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय वन नीति कब लागू की गई?",
@@ -2654,7 +2857,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय वन नीति 1988 में लागू की गई, जो वन संरक्षण को बढ़ावा देती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय विज्ञान और प्रौद्योगिकी नीति कब लागू की गई?",
@@ -2667,7 +2871,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय विज्ञान और प्रौद्योगिकी नीति 2003 में लागू की गई, जो वैज्ञानिक अनुसंधान को बढ़ावा देती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय साक्षरता मिशन कब शुरू हुआ?",
@@ -2680,7 +2885,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय साक्षरता मिशन 1988 में शुरू हुआ, जो साक्षरता दर बढ़ाने के लिए था।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय बाल नीति कब लागू की गई?",
@@ -2693,7 +2899,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय बाल नीति 2013 में लागू की गई, जो बच्चों के अधिकारों और विकास को बढ़ावा देती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय वृद्धजन नीति कब लागू की गई?",
@@ -2706,7 +2913,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय वृद्धजन नीति 1999 में लागू की गई, जो वरिष्ठ नागरिकों की देखभाल को बढ़ावा देती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय पर्यावरण नीति कब लागू की गई?",
@@ -2719,7 +2927,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय पर्यावरण नीति 2006 में लागू की गई, जो पर्यावरण संरक्षण को बढ़ावा देती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय कृषि नीति कब लागू की गई?",
@@ -2732,7 +2941,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय कृषि नीति 2000 में लागू की गई, जो कृषि विकास को बढ़ावा देती है।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय खेल विश्वविद्यालय कहाँ स्थापित हुआ?",
@@ -2745,7 +2955,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय खेल विश्वविद्यालय 2018 में इंफाल, मणिपुर में स्थापित हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय पुलिस स्मारक कब उद्घाटित हुआ?",
@@ -2758,7 +2969,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय पुलिस स्मारक 2018 में नई दिल्ली में पुलिसकर्मियों के सम्मान में उद्घाटित हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय युद्ध स्मारक कब उद्घाटित हुआ?",
@@ -2771,7 +2983,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय युद्ध स्मारक 2019 में नई दिल्ली में सैनिकों के सम्मान में उद्घाटित हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय आपदा प्रबंधन संस्थान कब स्थापित हुआ?",
@@ -2784,7 +2997,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय आपदा प्रबंधन संस्थान 2004 में आपदा प्रबंधन प्रशिक्षण के लिए स्थापित हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय डिजिटल स्वास्थ्य मिशन कब शुरू हुआ?",
@@ -2797,7 +3011,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय डिजिटल स्वास्थ्य मिशन 2020 में स्वास्थ्य सेवाओं के डिजिटलीकरण के लिए शुरू हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय स्टार्टअप नीति कब लागू की गई?",
@@ -2810,7 +3025,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय स्टार्टअप नीति 2019 में स्टार्टअप्स को बढ़ावा देने के लिए लागू की गई।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय शिक्षा मिशन कब शुरू हुआ?",
@@ -2823,7 +3039,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय शिक्षा मिशन 2010 में शिक्षा के क्षेत्र में सुधार के लिए शुरू हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय स्वास्थ्य बीमा योजना कब शुरू हुई?",
@@ -2836,7 +3053,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय स्वास्थ्य बीमा योजना (RSBY) 2008 में गरीबों के लिए स्वास्थ्य बीमा प्रदान करने हेतु शुरू हुई।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय ग्रामीण आजीविका मिशन कब शुरू हुआ?",
@@ -2849,7 +3067,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय ग्रामीण आजीविका मिशन 2011 में ग्रामीण आजीविका को बढ़ावा देने के लिए शुरू हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत में पहली बार राष्ट्रीय स्वच्छ गंगा मिशन कब शुरू हुआ?",
@@ -2862,7 +3081,8 @@
       "correctIndex": 0,
       "explanation": "राष्ट्रीय स्वच्छ गंगा मिशन 2014 में गंगा नदी की सफाई के लिए शुरू हुआ।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारत को स्वतंत्रता कब मिली?",
@@ -2875,7 +3095,8 @@
       "correctIndex": 0,
       "explanation": "भारत को 15 अगस्त 1947 को स्वतंत्रता मिली।",
       "subCategory": "आधुनिक इतिहास",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "महात्मा गांधी का जन्म कहाँ हुआ था?",
@@ -2888,7 +3109,8 @@
       "correctIndex": 0,
       "explanation": "महात्मा गांधी का जन्म पोरबंदर में हुआ था।",
       "subCategory": "व्यक्तित्व",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     },
     {
       "question": "मुगल साम्राज्य का संस्थापक कौन था?",
@@ -2901,7 +3123,8 @@
       "correctIndex": 0,
       "explanation": "मुगल साम्राज्य का संस्थापक बाबर था।",
       "subCategory": "मध्यकालीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "हड़प्पा सभ्यता कब की है?",
@@ -2914,7 +3137,8 @@
       "correctIndex": 0,
       "explanation": "हड़प्पा सभ्यता 2500-1500 ईसा पूर्व की है।",
       "subCategory": "प्राचीन इतिहास",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "questionType": "mcq"
     },
     {
       "question": "भारतीय संविधान कब लागू हुआ?",
@@ -2927,7 +3151,8 @@
       "correctIndex": 0,
       "explanation": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ।",
       "subCategory": "संविधान",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "questionType": "mcq"
     }
   ]
 }
