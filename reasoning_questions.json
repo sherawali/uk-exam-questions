@@ -18,7 +18,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 2, 5, 8, 11, ?",
@@ -34,7 +35,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'CAT' को 'FCW' लिखा जाता है, तो 'DOG' को कैसे लिखा जाएगा?",
@@ -50,7 +52,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "एक व्यक्ति उत्तर की ओर 5 किमी चलता है, फिर दाएँ मुड़कर 3 किमी चलता है। वह अब प्रारंभिक बिंदु से किस दिशा में है?",
@@ -66,7 +69,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "A, B का भाई है। C, B की बहन है। D, A की माँ है। E, C का पिता है। E का B से क्या संबंध है?",
@@ -82,7 +86,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "वेन डायग्राम में, त्रिभुज पुरुषों को, वृत्त महिलाओं को, और आयत बच्चों को दर्शाता है। पुरुष जो बच्चे नहीं हैं, उसे कौन सा क्षेत्र दर्शाता है?",
@@ -98,7 +103,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "पाँच व्यक्ति A, B, C, D, E एक पंक्ति में बैठे हैं। A, B के बाएँ है। C, D के दाएँ है। E, A के बाएँ है। सबसे बाएँ कौन है?",
@@ -114,7 +120,8 @@
       "difficulty": "Hard",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'Pencil' को 'Qfodjm' लिखा जाता है, तो 'Paper' को कैसे लिखा जाएगा?",
@@ -130,7 +137,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 3, 6, 12, 24, ?",
@@ -146,7 +154,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "A, B की माँ है। C, B का भाई है। D, A का पति है। E, D की माँ है। E का C से क्या संबंध है?",
@@ -162,7 +171,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'MANGO' को 'OGNAM' लिखा जाता है, तो 'APPLE' को कैसे लिखा जाएगा?",
@@ -178,7 +188,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "एक व्यक्ति दक्षिण की ओर 4 किमी चलता है, फिर बाएँ मुड़कर 3 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
@@ -194,7 +205,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 1, 4, 9, 16, ?",
@@ -210,7 +222,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "वेन डायग्राम में, वृत्त छात्रों को, त्रिभुज शिक्षकों को, और आयत कर्मचारियों को दर्शाता है। शिक्षक जो कर्मचारी नहीं हैं, उसे कौन सा क्षेत्र दर्शाता है?",
@@ -226,7 +239,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "पाँच व्यक्ति P, Q, R, S, T एक पंक्ति में बैठे हैं। P, Q के दाएँ है। R, S के बाएँ है। T, P के दाएँ है। सबसे दाएँ कौन है?",
@@ -242,7 +256,8 @@
       "difficulty": "Hard",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 7, 14, 28, 56, ?",
@@ -258,7 +273,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "A, B का पिता है। C, A की पत्नी है। D, B की बहन है। E, C की माँ है। E का B से क्या संबंध है?",
@@ -274,7 +290,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'SUN' को 'VXQ' लिखा जाता है, तो 'MOON' को कैसे लिखा जाएगा?",
@@ -290,7 +307,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "एक व्यक्ति पश्चिम की ओर 6 किमी चलता है, फिर दाएँ मुड़कर 8 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
@@ -306,7 +324,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 5, 10, 20, 40, ?",
@@ -322,7 +341,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "वेन डायग्राम में, वृत्त डॉक्टरों को, त्रिभुज इंजीनियरों को, और आयत वकीलों को दर्शाता है। डॉक्टर जो वकील नहीं हैं, उसे कौन सा क्षेत्र दर्शाता है?",
@@ -338,7 +358,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "पाँच व्यक्ति A, B, C, D, E एक पंक्ति में बैठे हैं। A, B के दाएँ है। C, D के बाएँ है। E, A के दाएँ है। सबसे बाएँ कौन है?",
@@ -354,7 +375,8 @@
       "difficulty": "Hard",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 4, 8, 16, 32, ?",
@@ -370,7 +392,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "A, B का भाई है। C, A की माँ है। D, B का पिता है। E, C का पिता है। E का A से क्या संबंध है?",
@@ -386,7 +409,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'RIVER' को 'TKAFW' लिखा जाता है, तो 'OCEAN' को कैसे लिखा जाएगा?",
@@ -402,7 +426,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "एक व्यक्ति पूर्व की ओर 10 किमी चलता है, फिर बाएँ मुड़कर 6 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
@@ -418,7 +443,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 6, 12, 24, 48, ?",
@@ -434,7 +460,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "वेन डायग्राम में, त्रिभुज खिलाड़ियों को, वृत्त कोचों को, और आयत प्रशंसकों को दर्शाता है। कोच जो प्रशंसक नहीं हैं, उसे कौन सा क्षेत्र दर्शाता है?",
@@ -450,7 +477,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "पाँच व्यक्ति A, B, C, D, E एक पंक्ति में बैठे हैं। A, B के बाएँ है। C, D के दाएँ है। E, A के बाएँ है। सबसे दाएँ कौन है?",
@@ -466,7 +494,8 @@
       "difficulty": "Hard",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'FAN' को 'KJS' लिखा जाता है, तो 'GUN' को कैसे लिखा जाएगा?",
@@ -482,7 +511,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 8, 16, 32, 64, ?",
@@ -498,7 +528,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "A, B की बहन है। C, A का पिता है। D, B की माँ है। E, C का पिता है। E का A से क्या संबंध है?",
@@ -514,7 +545,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'STAR' को 'UVYZ' लिखा जाता है, तो 'MOON' को कैसे लिखा जाएगा?",
@@ -530,7 +562,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 9, 18, 36, 72, ?",
@@ -546,7 +579,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "वेन डायग्राम में, वृत्त गायकों को, त्रिभुज नर्तकों को, और आयत संगीतकारों को दर्शाता है। नर्तक जो संगीतकार नहीं हैं, उसे कौन सा क्षेत्र दर्शाता है?",
@@ -562,7 +596,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'CLOCK' को 'IQPSU' लिखा जाता है, तो 'WATCH' को कैसे लिखा जाएगा?",
@@ -578,7 +613,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 10, 20, 40, 80, ?",
@@ -594,7 +630,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "A, B का पिता है। C, A की पत्नी है। D, B की बहन है। E, C की बहन है। E का B से क्या संबंध है?",
@@ -610,7 +647,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'GOLD' को 'KSFU' लिखा जाता है, तो 'SILVER' को कैसे लिखा जाएगा?",
@@ -626,7 +664,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "एक व्यक्ति दक्षिण की ओर 5 किमी चलता है, फिर दाएँ मुड़कर 12 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
@@ -642,7 +681,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 11, 22, 44, 88, ?",
@@ -658,7 +698,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "वेन डायग्राम में, वृत्त लेखकों को, त्रिभुज कवियों को, और आयत पत्रकारों को दर्शाता है। कवि जो पत्रकार नहीं हैं, उसे कौन सा क्षेत्र दर्शाता है?",
@@ -674,7 +715,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "पाँच व्यक्ति A, B, C, D, E एक पंक्ति में बैठे हैं। A, B के बाएँ है। C, D के दाएँ है। E, A के दाएँ है। सबसे बाएँ कौन है?",
@@ -690,7 +732,8 @@
       "difficulty": "Hard",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'HAPPY' को 'LFUAF' लिखा जाता है, तो 'SADLY' को कैसे लिखा जाएगा?",
@@ -706,7 +749,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 12, 24, 48, 96, ?",
@@ -722,7 +766,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "A, B का भाई है। C, A की माँ है। D, B का पिता है। E, C की बहन है। E का A से क्या संबंध है?",
@@ -738,7 +783,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'BIRD' को 'HLTK' लिखा जाता है, तो 'FISH' को कैसे लिखा जाएगा?",
@@ -754,7 +800,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "एक व्यक्ति पूर्व की ओर 8 किमी चलता है, फिर दाएँ मुड़कर 6 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
@@ -770,7 +817,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 13, 26, 52, 104, ?",
@@ -786,7 +834,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "वेन डायग्राम में, वृत्त चित्रकारों को, त्रिभुज मूर्तिकारों को, और आयत लेखकों को दर्शाता है। मूर्तिकार जो लेखक नहीं हैं, उसे कौन सा क्षेत्र दर्शाता है?",
@@ -802,7 +851,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "पाँच व्यक्ति A, B, C, D, E एक पंक्ति में बैठे हैं। A, B के दाएँ है। C, D के बाएँ है। E, A के बाएँ है। सबसे दाएँ कौन है?",
@@ -818,7 +868,8 @@
       "difficulty": "Hard",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'MOUSE' को 'RTZXJ' लिखा जाता है, तो 'KEYBOARD' को कैसे लिखा जाएगा?",
@@ -834,7 +885,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 14, 28, 56, 112, ?",
@@ -850,7 +902,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "A, B की माँ है। C, A का पति है। D, B का भाई है। E, C का भाई है। E का B से क्या संबंध है?",
@@ -866,7 +919,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'CANDLE' को 'KHWQX' लिखा जाता है, तो 'LIGHT' को कैसे लिखा जाएगा?",
@@ -882,7 +936,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "एक व्यक्ति पश्चिम की ओर 9 किमी चलता है, फिर बाएँ मुड़कर 5 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
@@ -898,7 +953,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला पूरी करें: 15, 30, 60, 120, ?",
@@ -914,7 +970,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "वेन डायग्राम में, वृत्त वैज्ञानिकों को, त्रिभुज प्रोफेसरों को, और आयत छात्रों को दर्शाता है। प्रोफेसर जो छात्र नहीं हैं, उसे कौन सा क्षेत्र दर्शाता है?",
@@ -930,7 +987,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि 'RING' को 'XOTZ' लिखा जाता है, तो 'SING' को कैसे लिखा जाएगा?",
@@ -946,7 +1004,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि A = 1, B = 2, C = 3 है, तो CAB = ?",
@@ -962,7 +1021,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "श्रृंखला में अगली संख्या क्या होगी: 2, 4, 8, 16, ?",
@@ -978,7 +1038,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि BOOK को 1334 लिखा जाता है, तो COOK को कैसे लिखा जाएगा?",
@@ -994,7 +1055,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "दिशा: उत्तर से दक्षिण की ओर जाने पर बाएं हाथ की दिशा क्या होगी?",
@@ -1010,7 +1072,8 @@
       "difficulty": "Easy",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि कल शुक्रवार है, तो परसों कौन सा दिन होगा?",
@@ -1026,7 +1089,8 @@
       "difficulty": "Medium",
       "examTarget": [
         "both"
-      ]
+      ],
+      "questionType": "mcq"
     },
     {
       "question": "यदि A = 1, B = 2, C = 3, ... Z = 26 हो, तो 'LOGIC' का योगफल कितना होगा?",
