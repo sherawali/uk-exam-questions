@@ -137,7 +137,7 @@
       ],
       "correctIndex": 2,
       "explanation": "NCERT कक्षा 9 (अर्थशास्त्र) के अध्याय 'पालमपुर गांव की कहानी' में दोनों कथन सही हैं। कृषि के चार कारक हैं और पलामपुर का वर्णन छोटे किसानों, नलकूपों और बहुफसली खेती के आधार पर किया गया है।",
-      "questionType": "statement",
+      "questionType": "mcq",
       "subCategory": "NCERT Class 9 - Village Economy"
     },
     {
@@ -150,7 +150,7 @@
       ],
       "correctIndex": 0,
       "explanation": "NCERT कक्षा 9 (गरीबी एक चुनौती) और कक्षा 11 (भारतीय अर्थव्यवस्था का विकास) के अनुसार, अभिकथन और कारण दोनों सही हैं। कारण गरीबी की ग्रामीण और कृषि आधारित प्रकृति की सही व्याख्या करता है।",
-      "questionType": "assertion_reason",
+      "questionType": "mcq",
       "subCategory": "Poverty and Development"
     },
     {
@@ -176,7 +176,7 @@
       ],
       "correctIndex": 2,
       "explanation": "NCERT कक्षा 11 (भारतीय अर्थव्यवस्था का विकास) और कक्षा 12 में दोनों कथन सही हैं। 1991 के आर्थिक सुधारों से लाइसेंस राज समाप्त हुआ और FDI बढ़ा।",
-      "questionType": "statement",
+      "questionType": "mcq",
       "subCategory": "Liberalisation and Reforms"
     },
     {
@@ -189,7 +189,7 @@
       ],
       "correctIndex": 0,
       "explanation": "संघीय बजट 2026-27 के अनुसार, पूंजीगत व्यय 12.2 लाख करोड़ है। कारण सही व्याख्या करता है क्योंकि यह बुनियादी ढांचा, विनिर्माण और रोजगार पर केंद्रित है।",
-      "questionType": "assertion_reason",
+      "questionType": "mcq",
       "subCategory": "Union Budget 2026-27"
     },
     {
@@ -215,7 +215,7 @@
       ],
       "correctIndex": 2,
       "explanation": "बजट 2026-27 के अनुसार, दोनों कथन सही हैं। पूंजीगत व्यय 12.2 लाख करोड़ है जिसमें बुनियादी ढांचा, हाई-स्पीड रेल और जलमार्ग शामिल हैं।",
-      "questionType": "statement",
+      "questionType": "mcq",
       "subCategory": "Union Budget 2026-27"
     },
     {
@@ -241,7 +241,7 @@
       ],
       "correctIndex": 2,
       "explanation": "NCERT कक्षा 12 (मैक्रोइकोनॉमिक्स - मुद्रा और बैंकिंग) में दोनों कथन सही हैं। मुद्रा आपूर्ति बढ़ने से कीमतें बढ़ती हैं और RBI मुद्रा नीति (CRR, SLR, रेपो रेट) के माध्यम से नियंत्रित करता है।",
-      "questionType": "statement",
+      "questionType": "mcq",
       "subCategory": "Money and Banking"
     },
     {
@@ -254,7 +254,7 @@
       ],
       "correctIndex": 0,
       "explanation": "NCERT कक्षा 9 (खाद्य सुरक्षा) और कक्षा 11 में हरित क्रांति (1960 के दशक) से उत्पादन बढ़ा। कारण सही व्याख्या करता है क्योंकि HYV बीज, उर्वरक और सिंचाई मुख्य कारक थे।",
-      "questionType": "assertion_reason",
+      "questionType": "mcq",
       "subCategory": "Agriculture and Food Security"
     },
     {
@@ -280,7 +280,7 @@
       ],
       "correctIndex": 0,
       "explanation": "NCERT कक्षा 10 (वैश्वीकरण) में कथन 1 सही है, कथन 2 गलत है क्योंकि वैश्वीकरण से कृषि निर्यात बढ़ा।",
-      "questionType": "statement",
+      "questionType": "mcq",
       "subCategory": "Globalisation"
     },
     {
@@ -293,7 +293,7 @@
       ],
       "correctIndex": 0,
       "explanation": "NCERT कक्षा 11 (मानव पूंजी) में अभिकथन और कारण दोनों सही हैं। कारण मानव पूंजी की सही परिभाषा और व्याख्या करता है।",
-      "questionType": "assertion_reason",
+      "questionType": "mcq",
       "subCategory": "Human Capital - Class 11"
     },
     {
@@ -332,7 +332,7 @@
       ],
       "correctIndex": 2,
       "explanation": "NCERT सामाजिक विज्ञान कक्षा 6-8 (संसाधन) और कक्षा 9 (लोग एक संसाधन) में दोनों कथन सही हैं।",
-      "questionType": "statement",
+      "questionType": "mcq",
       "subCategory": "NCERT Class 6-9 Basic"
     },
     {
@@ -358,7 +358,7 @@
       ],
       "correctIndex": 2,
       "explanation": "दोनों कथन सही हैं। GDP किसी निश्चित वर्ष में देश की भौगोलिक सीमाओं के भीतर उत्पादित अंतिम वस्तुओं और सेवाओं के बाजार मूल्य का योग है। नामिक जीडीपी चालू कीमतों पर होती है, जबकि वास्तविक जीडीपी मुद्रास्फीति समायोजित होती है।",
-      "questionType": "statement",
+      "questionType": "mcq",
       "subCategory": "National Income"
     },
     {
@@ -371,7 +371,7 @@
       ],
       "correctIndex": 0,
       "explanation": "अभिकथन और कारण दोनों सही हैं और कारण, अभिकथन की सही व्याख्या करता है। RBI मौद्रिक नीति के माध्यम से रिपो रेट, CRR आदि उपकरणों से मुद्रास्फीति और आर्थिक वृद्धि को संतुलित करता है।",
-      "questionType": "assertion_reason",
+      "questionType": "mcq",
       "subCategory": "Money and Banking"
     },
     {
@@ -397,7 +397,7 @@
       ],
       "correctIndex": 2,
       "explanation": "दोनों कथन सही हैं। पीएम-किसान योजना के तहत ₹6000 की सहायता तीन किश्तों (₹2000 प्रत्येक) में सीधे बैंक खातों (DBT) में दी जाती है।",
-      "questionType": "statement",
+      "questionType": "mcq",
       "subCategory": "Government Schemes - Agriculture"
     },
     {
@@ -410,7 +410,7 @@
       ],
       "correctIndex": 0,
       "explanation": "अभिकथन और कारण दोनों सही हैं और कारण, अभिकथन की सही व्याख्या करता है। रिपो रेट बढ़ने से ऋण महंगा होता है, जिससे खपत और निवेश में कमी आती है और मुद्रास्फीति नियंत्रित होती है।",
-      "questionType": "assertion_reason",
+      "questionType": "mcq",
       "subCategory": "Monetary Policy"
     },
     {
@@ -436,7 +436,7 @@
       ],
       "correctIndex": 2,
       "explanation": "दोनों कथन सही हैं। NSSO और CSO के विलय के बाद NSO ही प्रमुख सांख्यिकीय संस्था है जो PLFS के माध्यम से बेरोजगारी दर का आकलन करती है।",
-      "questionType": "statement",
+      "questionType": "mcq",
       "subCategory": "Employment and Unemployment"
     },
     {
@@ -449,7 +449,7 @@
       ],
       "correctIndex": 0,
       "explanation": "अभिकथन और कारण दोनों सही हैं और कारण, अभिकथन की सही व्याख्या करता है। GST ने कई अप्रत्यक्ष करों को समाप्त कर भारत को एक साझा बाजार बनाया है।",
-      "questionType": "assertion_reason",
+      "questionType": "mcq",
       "subCategory": "Tax Reforms"
     },
     {
@@ -475,7 +475,7 @@
       ],
       "correctIndex": 2,
       "explanation": "दोनों कथन सही हैं। JAM त्रिवेणी ने वित्तीय समावेशन और सरकारी योजनाओं की पारदर्शिता में क्रांतिकारी बदलाव किए हैं।",
-      "questionType": "statement",
+      "questionType": "mcq",
       "subCategory": "Financial Inclusion"
     },
     {
@@ -488,7 +488,7 @@
       ],
       "correctIndex": 0,
       "explanation": "अभिकथन और कारण दोनों सही हैं। 1960 के दशक की हरित क्रांति से भारत अनाज (विशेषकर गेहूं और चावल) के मामले में आत्मनिर्भर बना।",
-      "questionType": "assertion_reason",
+      "questionType": "mcq",
       "subCategory": "Agricultural Development"
     },
     {
@@ -514,7 +514,7 @@
       ],
       "correctIndex": 2,
       "explanation": "दोनों कथन सही हैं। NFSA 2013 दुनिया के सबसे बड़े खाद्य सुरक्षा कार्यक्रमों में से एक है।",
-      "questionType": "statement",
+      "questionType": "mcq",
       "subCategory": "Food Security"
     },
     {
@@ -527,7 +527,7 @@
       ],
       "correctIndex": 0,
       "explanation": "अभिकथन और कारण दोनों सही हैं। 1991 के सुधारों ने भारतीय अर्थव्यवस्था को बंद अर्थव्यवस्था से खुली अर्थव्यवस्था में बदल दिया।",
-      "questionType": "assertion_reason",
+      "questionType": "mcq",
       "subCategory": "Economic Reforms"
     },
     {
